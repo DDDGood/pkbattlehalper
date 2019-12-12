@@ -1,0 +1,4454 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "eng": "Bulbasaur",
+            "cht": "妙蛙種子"
+        },
+        {
+            "id": 2,
+            "eng": "Ivysaur",
+            "cht": "妙蛙草"
+        },
+        {
+            "id": 3,
+            "eng": "Venusaur",
+            "cht": "妙蛙花"
+        },
+        {
+            "id": 4,
+            "eng": "Charmander",
+            "cht": "小火龍"
+        },
+        {
+            "id": 5,
+            "eng": "Charmeleon",
+            "cht": "火恐龍"
+        },
+        {
+            "id": 6,
+            "eng": "Charizard",
+            "cht": "噴火龍"
+        },
+        {
+            "id": 7,
+            "eng": "Squirtle",
+            "cht": "傑尼龜"
+        },
+        {
+            "id": 8,
+            "eng": "Wartortle",
+            "cht": "卡咪龜"
+        },
+        {
+            "id": 9,
+            "eng": "Blastoise",
+            "cht": "水箭龜"
+        },
+        {
+            "id": 10,
+            "eng": "Caterpie",
+            "cht": "綠毛蟲"
+        },
+        {
+            "id": 11,
+            "eng": "Metapod",
+            "cht": "鐵甲蛹"
+        },
+        {
+            "id": 12,
+            "eng": "Butterfree",
+            "cht": "巴大蝶"
+        },
+        {
+            "id": 13,
+            "eng": "Weedle",
+            "cht": "獨角蟲"
+        },
+        {
+            "id": 14,
+            "eng": "Kakuna",
+            "cht": "鐵殼蛹"
+        },
+        {
+            "id": 15,
+            "eng": "Beedrill",
+            "cht": "大針蜂"
+        },
+        {
+            "id": 16,
+            "eng": "Pidgey",
+            "cht": "波波"
+        },
+        {
+            "id": 17,
+            "eng": "Pidgeotto",
+            "cht": "比比鳥"
+        },
+        {
+            "id": 18,
+            "eng": "Pidgeot",
+            "cht": "大比鳥"
+        },
+        {
+            "id": 19,
+            "eng": "Rattata",
+            "cht": "小拉達"
+        },
+        {
+            "id": 20,
+            "eng": "Raticate",
+            "cht": "拉達"
+        },
+        {
+            "id": 21,
+            "eng": "Spearow",
+            "cht": "烈雀"
+        },
+        {
+            "id": 22,
+            "eng": "Fearow",
+            "cht": "大嘴雀"
+        },
+        {
+            "id": 23,
+            "eng": "Ekans",
+            "cht": "阿柏蛇"
+        },
+        {
+            "id": 24,
+            "eng": "Arbok",
+            "cht": "阿柏怪"
+        },
+        {
+            "id": 25,
+            "eng": "Pikachu",
+            "cht": "皮卡丘"
+        },
+        {
+            "id": 26,
+            "eng": "Raichu",
+            "cht": "雷丘"
+        },
+        {
+            "id": 27,
+            "eng": "Sandshrew",
+            "cht": "穿山鼠"
+        },
+        {
+            "id": 28,
+            "eng": "Sandslash",
+            "cht": "穿山王"
+        },
+        {
+            "id": 29,
+            "eng": "Nidoran♀",
+            "cht": "尼多蘭"
+        },
+        {
+            "id": 30,
+            "eng": "Nidorina",
+            "cht": "尼多娜"
+        },
+        {
+            "id": 31,
+            "eng": "Nidoqueen",
+            "cht": "尼多后"
+        },
+        {
+            "id": 32,
+            "eng": "Nidoran♂",
+            "cht": "尼多朗"
+        },
+        {
+            "id": 33,
+            "eng": "Nidorino",
+            "cht": "尼多力諾"
+        },
+        {
+            "id": 34,
+            "eng": "Nidoking",
+            "cht": "尼多王"
+        },
+        {
+            "id": 35,
+            "eng": "Clefairy",
+            "cht": "皮皮"
+        },
+        {
+            "id": 36,
+            "eng": "Clefable",
+            "cht": "皮可西"
+        },
+        {
+            "id": 37,
+            "eng": "Vulpix",
+            "cht": "六尾"
+        },
+        {
+            "id": 38,
+            "eng": "Ninetales",
+            "cht": "九尾"
+        },
+        {
+            "id": 39,
+            "eng": "Jigglypuff",
+            "cht": "胖丁"
+        },
+        {
+            "id": 40,
+            "eng": "Wigglytuff",
+            "cht": "胖可丁"
+        },
+        {
+            "id": 41,
+            "eng": "Zubat",
+            "cht": "超音蝠"
+        },
+        {
+            "id": 42,
+            "eng": "Golbat",
+            "cht": "大嘴蝠"
+        },
+        {
+            "id": 43,
+            "eng": "Oddish",
+            "cht": "走路草"
+        },
+        {
+            "id": 44,
+            "eng": "Gloom",
+            "cht": "臭臭花"
+        },
+        {
+            "id": 45,
+            "eng": "Vileplume",
+            "cht": "霸王花"
+        },
+        {
+            "id": 46,
+            "eng": "Paras",
+            "cht": "派拉斯"
+        },
+        {
+            "id": 47,
+            "eng": "Parasect",
+            "cht": "派拉斯特"
+        },
+        {
+            "id": 48,
+            "eng": "Venonat",
+            "cht": "毛球"
+        },
+        {
+            "id": 49,
+            "eng": "Venomoth",
+            "cht": "摩魯蛾"
+        },
+        {
+            "id": 50,
+            "eng": "Diglett",
+            "cht": "地鼠"
+        },
+        {
+            "id": 51,
+            "eng": "Dugtrio",
+            "cht": "三地鼠"
+        },
+        {
+            "id": 52,
+            "eng": "Meowth",
+            "cht": "喵喵"
+        },
+        {
+            "id": 53,
+            "eng": "Persian",
+            "cht": "貓老大"
+        },
+        {
+            "id": 54,
+            "eng": "Psyduck",
+            "cht": "可達鴨"
+        },
+        {
+            "id": 55,
+            "eng": "Golduck",
+            "cht": "哥達鴨"
+        },
+        {
+            "id": 56,
+            "eng": "Mankey",
+            "cht": "猴怪"
+        },
+        {
+            "id": 57,
+            "eng": "Primeape",
+            "cht": "火爆猴"
+        },
+        {
+            "id": 58,
+            "eng": "Growlithe",
+            "cht": "卡蒂狗"
+        },
+        {
+            "id": 59,
+            "eng": "Arcanine",
+            "cht": "風速狗"
+        },
+        {
+            "id": 60,
+            "eng": "Poliwag",
+            "cht": "蚊香蝌蚪"
+        },
+        {
+            "id": 61,
+            "eng": "Poliwhirl",
+            "cht": "蚊香君"
+        },
+        {
+            "id": 62,
+            "eng": "Poliwrath",
+            "cht": "蚊香泳士"
+        },
+        {
+            "id": 63,
+            "eng": "Abra",
+            "cht": "凱西"
+        },
+        {
+            "id": 64,
+            "eng": "Kadabra",
+            "cht": "勇基拉"
+        },
+        {
+            "id": 65,
+            "eng": "Alakazam",
+            "cht": "胡地"
+        },
+        {
+            "id": 66,
+            "eng": "Machop",
+            "cht": "腕力"
+        },
+        {
+            "id": 67,
+            "eng": "Machoke",
+            "cht": "豪力"
+        },
+        {
+            "id": 68,
+            "eng": "Machamp",
+            "cht": "怪力"
+        },
+        {
+            "id": 69,
+            "eng": "Bellsprout",
+            "cht": "喇叭芽"
+        },
+        {
+            "id": 70,
+            "eng": "Weepinbell",
+            "cht": "口呆花"
+        },
+        {
+            "id": 71,
+            "eng": "Victreebel",
+            "cht": "大食花"
+        },
+        {
+            "id": 72,
+            "eng": "Tentacool",
+            "cht": "瑪瑙水母"
+        },
+        {
+            "id": 73,
+            "eng": "Tentacruel",
+            "cht": "毒刺水母"
+        },
+        {
+            "id": 74,
+            "eng": "Geodude",
+            "cht": "小拳石"
+        },
+        {
+            "id": 75,
+            "eng": "Graveler",
+            "cht": "隆隆石"
+        },
+        {
+            "id": 76,
+            "eng": "Golem",
+            "cht": "隆隆岩"
+        },
+        {
+            "id": 77,
+            "eng": "Ponyta",
+            "cht": "小火馬"
+        },
+        {
+            "id": 78,
+            "eng": "Rapidash",
+            "cht": "烈焰馬"
+        },
+        {
+            "id": 79,
+            "eng": "Slowpoke",
+            "cht": "呆呆獸"
+        },
+        {
+            "id": 80,
+            "eng": "Slowbro",
+            "cht": "呆殼獸"
+        },
+        {
+            "id": 81,
+            "eng": "Magnemite",
+            "cht": "小磁怪"
+        },
+        {
+            "id": 82,
+            "eng": "Magneton",
+            "cht": "三合一磁怪"
+        },
+        {
+            "id": 83,
+            "eng": "Farfetch'd",
+            "cht": "大蔥鴨"
+        },
+        {
+            "id": 84,
+            "eng": "Doduo",
+            "cht": "嘟嘟"
+        },
+        {
+            "id": 85,
+            "eng": "Dodrio",
+            "cht": "嘟嘟利"
+        },
+        {
+            "id": 86,
+            "eng": "Seel",
+            "cht": "小海獅"
+        },
+        {
+            "id": 87,
+            "eng": "Dewgong",
+            "cht": "白海獅"
+        },
+        {
+            "id": 88,
+            "eng": "Grimer",
+            "cht": "臭泥"
+        },
+        {
+            "id": 89,
+            "eng": "Muk",
+            "cht": "臭臭泥"
+        },
+        {
+            "id": 90,
+            "eng": "Shellder",
+            "cht": "大舌貝"
+        },
+        {
+            "id": 91,
+            "eng": "Cloyster",
+            "cht": "刺甲貝"
+        },
+        {
+            "id": 92,
+            "eng": "Gastly",
+            "cht": "鬼斯"
+        },
+        {
+            "id": 93,
+            "eng": "Haunter",
+            "cht": "鬼斯通"
+        },
+        {
+            "id": 94,
+            "eng": "Gengar",
+            "cht": "耿鬼"
+        },
+        {
+            "id": 95,
+            "eng": "Onix",
+            "cht": "大岩蛇"
+        },
+        {
+            "id": 96,
+            "eng": "Drowzee",
+            "cht": "催眠貘"
+        },
+        {
+            "id": 97,
+            "eng": "Hypno",
+            "cht": "引夢貘人"
+        },
+        {
+            "id": 98,
+            "eng": "Krabby",
+            "cht": "大鉗蟹"
+        },
+        {
+            "id": 99,
+            "eng": "Kingler",
+            "cht": "巨鉗蟹"
+        },
+        {
+            "id": 100,
+            "eng": "Voltorb",
+            "cht": "霹靂電球"
+        },
+        {
+            "id": 101,
+            "eng": "Electrode",
+            "cht": "頑皮雷彈"
+        },
+        {
+            "id": 102,
+            "eng": "Exeggcute",
+            "cht": "蛋蛋"
+        },
+        {
+            "id": 103,
+            "eng": "Exeggutor",
+            "cht": "椰蛋樹"
+        },
+        {
+            "id": 104,
+            "eng": "Cubone",
+            "cht": "卡拉卡拉"
+        },
+        {
+            "id": 105,
+            "eng": "Marowak",
+            "cht": "嘎啦嘎啦"
+        },
+        {
+            "id": 106,
+            "eng": "Hitmonlee",
+            "cht": "飛腿郎"
+        },
+        {
+            "id": 107,
+            "eng": "Hitmonchan",
+            "cht": "快拳郎"
+        },
+        {
+            "id": 108,
+            "eng": "Lickitung",
+            "cht": "大舌頭"
+        },
+        {
+            "id": 109,
+            "eng": "Koffing",
+            "cht": "瓦斯彈"
+        },
+        {
+            "id": 110,
+            "eng": "Weezing",
+            "cht": "雙彈瓦斯"
+        },
+        {
+            "id": 111,
+            "eng": "Rhyhorn",
+            "cht": "獨角犀牛"
+        },
+        {
+            "id": 112,
+            "eng": "Rhydon",
+            "cht": "鑽角犀獸"
+        },
+        {
+            "id": 113,
+            "eng": "Chansey",
+            "cht": "吉利蛋"
+        },
+        {
+            "id": 114,
+            "eng": "Tangela",
+            "cht": "蔓藤怪"
+        },
+        {
+            "id": 115,
+            "eng": "Kangaskhan",
+            "cht": "袋獸"
+        },
+        {
+            "id": 116,
+            "eng": "Horsea",
+            "cht": "墨海馬"
+        },
+        {
+            "id": 117,
+            "eng": "Seadra",
+            "cht": "海刺龍"
+        },
+        {
+            "id": 118,
+            "eng": "Goldeen",
+            "cht": "角金魚"
+        },
+        {
+            "id": 119,
+            "eng": "Seaking",
+            "cht": "金魚王"
+        },
+        {
+            "id": 120,
+            "eng": "Staryu",
+            "cht": "海星星"
+        },
+        {
+            "id": 121,
+            "eng": "Starmie",
+            "cht": "寶石海星"
+        },
+        {
+            "id": 122,
+            "eng": "Mr. Mime",
+            "cht": "魔牆人偶"
+        },
+        {
+            "id": 123,
+            "eng": "Scyther",
+            "cht": "飛天螳螂"
+        },
+        {
+            "id": 124,
+            "eng": "Jynx",
+            "cht": "迷唇姐"
+        },
+        {
+            "id": 125,
+            "eng": "Electabuzz",
+            "cht": "電擊獸"
+        },
+        {
+            "id": 126,
+            "eng": "Magmar",
+            "cht": "鴨嘴火獸"
+        },
+        {
+            "id": 127,
+            "eng": "Pinsir",
+            "cht": "凱羅斯"
+        },
+        {
+            "id": 128,
+            "eng": "Tauros",
+            "cht": "肯泰羅"
+        },
+        {
+            "id": 129,
+            "eng": "Magikarp",
+            "cht": "鯉魚王"
+        },
+        {
+            "id": 130,
+            "eng": "Gyarados",
+            "cht": "暴鯉龍"
+        },
+        {
+            "id": 131,
+            "eng": "Lapras",
+            "cht": "拉普拉斯"
+        },
+        {
+            "id": 132,
+            "eng": "Ditto",
+            "cht": "百變怪"
+        },
+        {
+            "id": 133,
+            "eng": "Eevee",
+            "cht": "伊布"
+        },
+        {
+            "id": 134,
+            "eng": "Vaporeon",
+            "cht": "水伊布"
+        },
+        {
+            "id": 135,
+            "eng": "Jolteon",
+            "cht": "雷伊布"
+        },
+        {
+            "id": 136,
+            "eng": "Flareon",
+            "cht": "火伊布"
+        },
+        {
+            "id": 137,
+            "eng": "Porygon",
+            "cht": "多邊獸"
+        },
+        {
+            "id": 138,
+            "eng": "Omanyte",
+            "cht": "菊石獸"
+        },
+        {
+            "id": 139,
+            "eng": "Omastar",
+            "cht": "多刺菊石獸"
+        },
+        {
+            "id": 140,
+            "eng": "Kabuto",
+            "cht": "化石盔"
+        },
+        {
+            "id": 141,
+            "eng": "Kabutops",
+            "cht": "鐮刀盔"
+        },
+        {
+            "id": 142,
+            "eng": "Aerodactyl",
+            "cht": "化石翼龍"
+        },
+        {
+            "id": 143,
+            "eng": "Snorlax",
+            "cht": "卡比獸"
+        },
+        {
+            "id": 144,
+            "eng": "Articuno",
+            "cht": "急凍鳥"
+        },
+        {
+            "id": 145,
+            "eng": "Zapdos",
+            "cht": "閃電鳥"
+        },
+        {
+            "id": 146,
+            "eng": "Moltres",
+            "cht": "火焰鳥"
+        },
+        {
+            "id": 147,
+            "eng": "Dratini",
+            "cht": "迷你龍"
+        },
+        {
+            "id": 148,
+            "eng": "Dragonair",
+            "cht": "哈克龍"
+        },
+        {
+            "id": 149,
+            "eng": "Dragonite",
+            "cht": "快龍"
+        },
+        {
+            "id": 150,
+            "eng": "Mewtwo",
+            "cht": "超夢"
+        },
+        {
+            "id": 151,
+            "eng": "Mew",
+            "cht": "夢幻"
+        },
+        {
+            "id": 152,
+            "eng": "Chikorita",
+            "cht": "菊草葉"
+        },
+        {
+            "id": 153,
+            "eng": "Bayleef",
+            "cht": "月桂葉"
+        },
+        {
+            "id": 154,
+            "eng": "Meganium",
+            "cht": "大竺葵"
+        },
+        {
+            "id": 155,
+            "eng": "Cyndaquil",
+            "cht": "火球鼠"
+        },
+        {
+            "id": 156,
+            "eng": "Quilava",
+            "cht": "火岩鼠"
+        },
+        {
+            "id": 157,
+            "eng": "Typhlosion",
+            "cht": "火爆獸"
+        },
+        {
+            "id": 158,
+            "eng": "Totodile",
+            "cht": "小鋸鱷"
+        },
+        {
+            "id": 159,
+            "eng": "Croconaw",
+            "cht": "藍鱷"
+        },
+        {
+            "id": 160,
+            "eng": "Feraligatr",
+            "cht": "大力鱷"
+        },
+        {
+            "id": 161,
+            "eng": "Sentret",
+            "cht": "尾立"
+        },
+        {
+            "id": 162,
+            "eng": "Furret",
+            "cht": "大尾立"
+        },
+        {
+            "id": 163,
+            "eng": "Hoothoot",
+            "cht": "咕咕"
+        },
+        {
+            "id": 164,
+            "eng": "Noctowl",
+            "cht": "貓頭夜鷹"
+        },
+        {
+            "id": 165,
+            "eng": "Ledyba",
+            "cht": "芭瓢蟲"
+        },
+        {
+            "id": 166,
+            "eng": "Ledian",
+            "cht": "安瓢蟲"
+        },
+        {
+            "id": 167,
+            "eng": "Spinarak",
+            "cht": "圓絲蛛"
+        },
+        {
+            "id": 168,
+            "eng": "Ariados",
+            "cht": "阿利多斯"
+        },
+        {
+            "id": 169,
+            "eng": "Crobat",
+            "cht": "叉字蝠"
+        },
+        {
+            "id": 170,
+            "eng": "Chinchou",
+            "cht": "燈籠魚"
+        },
+        {
+            "id": 171,
+            "eng": "Lanturn",
+            "cht": "電燈怪"
+        },
+        {
+            "id": 172,
+            "eng": "Pichu",
+            "cht": "皮丘"
+        },
+        {
+            "id": 173,
+            "eng": "Cleffa",
+            "cht": "皮寶寶"
+        },
+        {
+            "id": 174,
+            "eng": "Igglybuff",
+            "cht": "寶寶丁"
+        },
+        {
+            "id": 175,
+            "eng": "Togepi",
+            "cht": "波克比"
+        },
+        {
+            "id": 176,
+            "eng": "Togetic",
+            "cht": "波克基古"
+        },
+        {
+            "id": 177,
+            "eng": "Natu",
+            "cht": "天然雀"
+        },
+        {
+            "id": 178,
+            "eng": "Xatu",
+            "cht": "天然鳥"
+        },
+        {
+            "id": 179,
+            "eng": "Mareep",
+            "cht": "咩利羊"
+        },
+        {
+            "id": 180,
+            "eng": "Flaaffy",
+            "cht": "茸茸羊"
+        },
+        {
+            "id": 181,
+            "eng": "Ampharos",
+            "cht": "電龍"
+        },
+        {
+            "id": 182,
+            "eng": "Bellossom",
+            "cht": "美麗花"
+        },
+        {
+            "id": 183,
+            "eng": "Marill",
+            "cht": "瑪力露"
+        },
+        {
+            "id": 184,
+            "eng": "Azumarill",
+            "cht": "瑪力露麗"
+        },
+        {
+            "id": 185,
+            "eng": "Sudowoodo",
+            "cht": "樹才怪"
+        },
+        {
+            "id": 186,
+            "eng": "Politoed",
+            "cht": "蚊香蛙皇"
+        },
+        {
+            "id": 187,
+            "eng": "Hoppip",
+            "cht": "毽子草"
+        },
+        {
+            "id": 188,
+            "eng": "Skiploom",
+            "cht": "毽子花"
+        },
+        {
+            "id": 189,
+            "eng": "Jumpluff",
+            "cht": "毽子棉"
+        },
+        {
+            "id": 190,
+            "eng": "Aipom",
+            "cht": "長尾怪手"
+        },
+        {
+            "id": 191,
+            "eng": "Sunkern",
+            "cht": "向日種子"
+        },
+        {
+            "id": 192,
+            "eng": "Sunflora",
+            "cht": "向日花怪"
+        },
+        {
+            "id": 193,
+            "eng": "Yanma",
+            "cht": "蜻蜻蜓"
+        },
+        {
+            "id": 194,
+            "eng": "Wooper",
+            "cht": "烏波"
+        },
+        {
+            "id": 195,
+            "eng": "Quagsire",
+            "cht": "沼王"
+        },
+        {
+            "id": 196,
+            "eng": "Espeon",
+            "cht": "太陽伊布"
+        },
+        {
+            "id": 197,
+            "eng": "Umbreon",
+            "cht": "月亮伊布"
+        },
+        {
+            "id": 198,
+            "eng": "Murkrow",
+            "cht": "黑暗鴉"
+        },
+        {
+            "id": 199,
+            "eng": "Slowking",
+            "cht": "呆呆王"
+        },
+        {
+            "id": 200,
+            "eng": "Misdreavus",
+            "cht": "夢妖"
+        },
+        {
+            "id": 201,
+            "eng": "Unown",
+            "cht": "未知圖騰"
+        },
+        {
+            "id": 202,
+            "eng": "Wobbuffet",
+            "cht": "果然翁"
+        },
+        {
+            "id": 203,
+            "eng": "Girafarig",
+            "cht": "麒麟奇"
+        },
+        {
+            "id": 204,
+            "eng": "Pineco",
+            "cht": "榛果球"
+        },
+        {
+            "id": 205,
+            "eng": "Forretress",
+            "cht": "佛烈托斯"
+        },
+        {
+            "id": 206,
+            "eng": "Dunsparce",
+            "cht": "土龍弟弟"
+        },
+        {
+            "id": 207,
+            "eng": "Gligar",
+            "cht": "天蠍"
+        },
+        {
+            "id": 208,
+            "eng": "Steelix",
+            "cht": "大鋼蛇"
+        },
+        {
+            "id": 209,
+            "eng": "Snubbull",
+            "cht": "布魯"
+        },
+        {
+            "id": 210,
+            "eng": "Granbull",
+            "cht": "布魯皇"
+        },
+        {
+            "id": 211,
+            "eng": "Qwilfish",
+            "cht": "千針魚"
+        },
+        {
+            "id": 212,
+            "eng": "Scizor",
+            "cht": "巨鉗螳螂"
+        },
+        {
+            "id": 213,
+            "eng": "Shuckle",
+            "cht": "壺壺"
+        },
+        {
+            "id": 214,
+            "eng": "Heracross",
+            "cht": "赫拉克羅斯"
+        },
+        {
+            "id": 215,
+            "eng": "Sneasel",
+            "cht": "狃拉"
+        },
+        {
+            "id": 216,
+            "eng": "Teddiursa",
+            "cht": "熊寶寶"
+        },
+        {
+            "id": 217,
+            "eng": "Ursaring",
+            "cht": "圈圈熊"
+        },
+        {
+            "id": 218,
+            "eng": "Slugma",
+            "cht": "熔岩蟲"
+        },
+        {
+            "id": 219,
+            "eng": "Magcargo",
+            "cht": "熔岩蝸牛"
+        },
+        {
+            "id": 220,
+            "eng": "Swinub",
+            "cht": "小山豬"
+        },
+        {
+            "id": 221,
+            "eng": "Piloswine",
+            "cht": "長毛豬"
+        },
+        {
+            "id": 222,
+            "eng": "Corsola",
+            "cht": "太陽珊瑚"
+        },
+        {
+            "id": 223,
+            "eng": "Remoraid",
+            "cht": "鐵炮魚"
+        },
+        {
+            "id": 224,
+            "eng": "Octillery",
+            "cht": "章魚桶"
+        },
+        {
+            "id": 225,
+            "eng": "Delibird",
+            "cht": "信使鳥"
+        },
+        {
+            "id": 226,
+            "eng": "Mantine",
+            "cht": "巨翅飛魚"
+        },
+        {
+            "id": 227,
+            "eng": "Skarmory",
+            "cht": "盔甲鳥"
+        },
+        {
+            "id": 228,
+            "eng": "Houndour",
+            "cht": "戴魯比"
+        },
+        {
+            "id": 229,
+            "eng": "Houndoom",
+            "cht": "黑魯加"
+        },
+        {
+            "id": 230,
+            "eng": "Kingdra",
+            "cht": "刺龍王"
+        },
+        {
+            "id": 231,
+            "eng": "Phanpy",
+            "cht": "小小象"
+        },
+        {
+            "id": 232,
+            "eng": "Donphan",
+            "cht": "頓甲"
+        },
+        {
+            "id": 233,
+            "eng": "Porygon2",
+            "cht": "多邊獸Ⅱ"
+        },
+        {
+            "id": 234,
+            "eng": "Stantler",
+            "cht": "驚角鹿"
+        },
+        {
+            "id": 235,
+            "eng": "Smeargle",
+            "cht": "圖圖犬"
+        },
+        {
+            "id": 236,
+            "eng": "Tyrogue",
+            "cht": "無畏小子"
+        },
+        {
+            "id": 237,
+            "eng": "Hitmontop",
+            "cht": "戰舞郎"
+        },
+        {
+            "id": 238,
+            "eng": "Smoochum",
+            "cht": "迷唇娃"
+        },
+        {
+            "id": 239,
+            "eng": "Elekid",
+            "cht": "電擊怪"
+        },
+        {
+            "id": 240,
+            "eng": "Magby",
+            "cht": "鴨嘴寶寶"
+        },
+        {
+            "id": 241,
+            "eng": "Miltank",
+            "cht": "大奶罐"
+        },
+        {
+            "id": 242,
+            "eng": "Blissey",
+            "cht": "幸福蛋"
+        },
+        {
+            "id": 243,
+            "eng": "Raikou",
+            "cht": "雷公"
+        },
+        {
+            "id": 244,
+            "eng": "Entei",
+            "cht": "炎帝"
+        },
+        {
+            "id": 245,
+            "eng": "Suicune",
+            "cht": "水君"
+        },
+        {
+            "id": 246,
+            "eng": "Larvitar",
+            "cht": "幼基拉斯"
+        },
+        {
+            "id": 247,
+            "eng": "Pupitar",
+            "cht": "沙基拉斯"
+        },
+        {
+            "id": 248,
+            "eng": "Tyranitar",
+            "cht": "班基拉斯"
+        },
+        {
+            "id": 249,
+            "eng": "Lugia",
+            "cht": "洛奇亞"
+        },
+        {
+            "id": 250,
+            "eng": "Ho-Oh",
+            "cht": "鳳王"
+        },
+        {
+            "id": 251,
+            "eng": "Celebi",
+            "cht": "時拉比"
+        },
+        {
+            "id": 252,
+            "eng": "Treecko",
+            "cht": "木守宮"
+        },
+        {
+            "id": 253,
+            "eng": "Grovyle",
+            "cht": "森林蜥蜴"
+        },
+        {
+            "id": 254,
+            "eng": "Sceptile",
+            "cht": "蜥蜴王"
+        },
+        {
+            "id": 255,
+            "eng": "Torchic",
+            "cht": "火稚雞"
+        },
+        {
+            "id": 256,
+            "eng": "Combusken",
+            "cht": "力壯雞"
+        },
+        {
+            "id": 257,
+            "eng": "Blaziken",
+            "cht": "火焰雞"
+        },
+        {
+            "id": 258,
+            "eng": "Mudkip",
+            "cht": "水躍魚"
+        },
+        {
+            "id": 259,
+            "eng": "Marshtomp",
+            "cht": "沼躍魚"
+        },
+        {
+            "id": 260,
+            "eng": "Swampert",
+            "cht": "巨沼怪"
+        },
+        {
+            "id": 261,
+            "eng": "Poochyena",
+            "cht": "土狼犬"
+        },
+        {
+            "id": 262,
+            "eng": "Mightyena",
+            "cht": "大狼犬"
+        },
+        {
+            "id": 263,
+            "eng": "Zigzagoon",
+            "cht": "蛇紋熊"
+        },
+        {
+            "id": 264,
+            "eng": "Linoone",
+            "cht": "直衝熊"
+        },
+        {
+            "id": 265,
+            "eng": "Wurmple",
+            "cht": "刺尾蟲"
+        },
+        {
+            "id": 266,
+            "eng": "Silcoon",
+            "cht": "甲殼繭"
+        },
+        {
+            "id": 267,
+            "eng": "Beautifly",
+            "cht": "狩獵鳳蝶"
+        },
+        {
+            "id": 268,
+            "eng": "Cascoon",
+            "cht": "盾甲繭"
+        },
+        {
+            "id": 269,
+            "eng": "Dustox",
+            "cht": "毒粉蛾"
+        },
+        {
+            "id": 270,
+            "eng": "Lotad",
+            "cht": "蓮葉童子"
+        },
+        {
+            "id": 271,
+            "eng": "Lombre",
+            "cht": "蓮帽小童"
+        },
+        {
+            "id": 272,
+            "eng": "Ludicolo",
+            "cht": "樂天河童"
+        },
+        {
+            "id": 273,
+            "eng": "Seedot",
+            "cht": "橡實果"
+        },
+        {
+            "id": 274,
+            "eng": "Nuzleaf",
+            "cht": "長鼻葉"
+        },
+        {
+            "id": 275,
+            "eng": "Shiftry",
+            "cht": "狡猾天狗"
+        },
+        {
+            "id": 276,
+            "eng": "Taillow",
+            "cht": "傲骨燕"
+        },
+        {
+            "id": 277,
+            "eng": "Swellow",
+            "cht": "大王燕"
+        },
+        {
+            "id": 278,
+            "eng": "Wingull",
+            "cht": "長翅鷗"
+        },
+        {
+            "id": 279,
+            "eng": "Pelipper",
+            "cht": "大嘴鷗"
+        },
+        {
+            "id": 280,
+            "eng": "Ralts",
+            "cht": "拉魯拉絲"
+        },
+        {
+            "id": 281,
+            "eng": "Kirlia",
+            "cht": "奇魯莉安"
+        },
+        {
+            "id": 282,
+            "eng": "Gardevoir",
+            "cht": "沙奈朵"
+        },
+        {
+            "id": 283,
+            "eng": "Surskit",
+            "cht": "溜溜糖球"
+        },
+        {
+            "id": 284,
+            "eng": "Masquerain",
+            "cht": "雨翅蛾"
+        },
+        {
+            "id": 285,
+            "eng": "Shroomish",
+            "cht": "蘑蘑菇"
+        },
+        {
+            "id": 286,
+            "eng": "Breloom",
+            "cht": "斗笠菇"
+        },
+        {
+            "id": 287,
+            "eng": "Slakoth",
+            "cht": "懶人獺"
+        },
+        {
+            "id": 288,
+            "eng": "Vigoroth",
+            "cht": "過動猿"
+        },
+        {
+            "id": 289,
+            "eng": "Slaking",
+            "cht": "請假王"
+        },
+        {
+            "id": 290,
+            "eng": "Nincada",
+            "cht": "土居忍士"
+        },
+        {
+            "id": 291,
+            "eng": "Ninjask",
+            "cht": "鐵面忍者"
+        },
+        {
+            "id": 292,
+            "eng": "Shedinja",
+            "cht": "脫殼忍者"
+        },
+        {
+            "id": 293,
+            "eng": "Whismur",
+            "cht": "咕妞妞"
+        },
+        {
+            "id": 294,
+            "eng": "Loudred",
+            "cht": "吼爆彈"
+        },
+        {
+            "id": 295,
+            "eng": "Exploud",
+            "cht": "爆音怪"
+        },
+        {
+            "id": 296,
+            "eng": "Makuhita",
+            "cht": "幕下力士"
+        },
+        {
+            "id": 297,
+            "eng": "Hariyama",
+            "cht": "鐵掌力士"
+        },
+        {
+            "id": 298,
+            "eng": "Azurill",
+            "cht": "露力麗"
+        },
+        {
+            "id": 299,
+            "eng": "Nosepass",
+            "cht": "朝北鼻"
+        },
+        {
+            "id": 300,
+            "eng": "Skitty",
+            "cht": "向尾喵"
+        },
+        {
+            "id": 301,
+            "eng": "Delcatty",
+            "cht": "優雅貓"
+        },
+        {
+            "id": 302,
+            "eng": "Sableye",
+            "cht": "勾魂眼"
+        },
+        {
+            "id": 303,
+            "eng": "Mawile",
+            "cht": "大嘴娃"
+        },
+        {
+            "id": 304,
+            "eng": "Aron",
+            "cht": "可可多拉"
+        },
+        {
+            "id": 305,
+            "eng": "Lairon",
+            "cht": "可多拉"
+        },
+        {
+            "id": 306,
+            "eng": "Aggron",
+            "cht": "波士可多拉"
+        },
+        {
+            "id": 307,
+            "eng": "Meditite",
+            "cht": "瑪沙那"
+        },
+        {
+            "id": 308,
+            "eng": "Medicham",
+            "cht": "恰雷姆"
+        },
+        {
+            "id": 309,
+            "eng": "Electrike",
+            "cht": "落雷獸"
+        },
+        {
+            "id": 310,
+            "eng": "Manectric",
+            "cht": "雷電獸"
+        },
+        {
+            "id": 311,
+            "eng": "Plusle",
+            "cht": "正電拍拍"
+        },
+        {
+            "id": 312,
+            "eng": "Minun",
+            "cht": "負電拍拍"
+        },
+        {
+            "id": 313,
+            "eng": "Volbeat",
+            "cht": "電螢蟲"
+        },
+        {
+            "id": 314,
+            "eng": "Illumise",
+            "cht": "甜甜螢"
+        },
+        {
+            "id": 315,
+            "eng": "Roselia",
+            "cht": "毒薔薇"
+        },
+        {
+            "id": 316,
+            "eng": "Gulpin",
+            "cht": "溶食獸"
+        },
+        {
+            "id": 317,
+            "eng": "Swalot",
+            "cht": "吞食獸"
+        },
+        {
+            "id": 318,
+            "eng": "Carvanha",
+            "cht": "利牙魚"
+        },
+        {
+            "id": 319,
+            "eng": "Sharpedo",
+            "cht": "巨牙鯊"
+        },
+        {
+            "id": 320,
+            "eng": "Wailmer",
+            "cht": "吼吼鯨"
+        },
+        {
+            "id": 321,
+            "eng": "Wailord",
+            "cht": "吼鯨王"
+        },
+        {
+            "id": 322,
+            "eng": "Numel",
+            "cht": "呆火駝"
+        },
+        {
+            "id": 323,
+            "eng": "Camerupt",
+            "cht": "噴火駝"
+        },
+        {
+            "id": 324,
+            "eng": "Torkoal",
+            "cht": "煤炭龜"
+        },
+        {
+            "id": 325,
+            "eng": "Spoink",
+            "cht": "跳跳豬"
+        },
+        {
+            "id": 326,
+            "eng": "Grumpig",
+            "cht": "噗噗豬"
+        },
+        {
+            "id": 327,
+            "eng": "Spinda",
+            "cht": "晃晃斑"
+        },
+        {
+            "id": 328,
+            "eng": "Trapinch",
+            "cht": "大顎蟻"
+        },
+        {
+            "id": 329,
+            "eng": "Vibrava",
+            "cht": "超音波幼蟲"
+        },
+        {
+            "id": 330,
+            "eng": "Flygon",
+            "cht": "沙漠蜻蜓"
+        },
+        {
+            "id": 331,
+            "eng": "Cacnea",
+            "cht": "刺球仙人掌"
+        },
+        {
+            "id": 332,
+            "eng": "Cacturne",
+            "cht": "夢歌仙人掌"
+        },
+        {
+            "id": 333,
+            "eng": "Swablu",
+            "cht": "青綿鳥"
+        },
+        {
+            "id": 334,
+            "eng": "Altaria",
+            "cht": "七夕青鳥"
+        },
+        {
+            "id": 335,
+            "eng": "Zangoose",
+            "cht": "貓鼬斬"
+        },
+        {
+            "id": 336,
+            "eng": "Seviper",
+            "cht": "飯匙蛇"
+        },
+        {
+            "id": 337,
+            "eng": "Lunatone",
+            "cht": "月石"
+        },
+        {
+            "id": 338,
+            "eng": "Solrock",
+            "cht": "太陽岩"
+        },
+        {
+            "id": 339,
+            "eng": "Barboach",
+            "cht": "泥泥鰍"
+        },
+        {
+            "id": 340,
+            "eng": "Whiscash",
+            "cht": "鯰魚王"
+        },
+        {
+            "id": 341,
+            "eng": "Corphish",
+            "cht": "龍蝦小兵"
+        },
+        {
+            "id": 342,
+            "eng": "Crawdaunt",
+            "cht": "鐵螯龍蝦"
+        },
+        {
+            "id": 343,
+            "eng": "Baltoy",
+            "cht": "天秤偶"
+        },
+        {
+            "id": 344,
+            "eng": "Claydol",
+            "cht": "念力土偶"
+        },
+        {
+            "id": 345,
+            "eng": "Lileep",
+            "cht": "觸手百合"
+        },
+        {
+            "id": 346,
+            "eng": "Cradily",
+            "cht": "搖籃百合"
+        },
+        {
+            "id": 347,
+            "eng": "Anorith",
+            "cht": "太古羽蟲"
+        },
+        {
+            "id": 348,
+            "eng": "Armaldo",
+            "cht": "太古盔甲"
+        },
+        {
+            "id": 349,
+            "eng": "Feebas",
+            "cht": "醜醜魚"
+        },
+        {
+            "id": 350,
+            "eng": "Milotic",
+            "cht": "美納斯"
+        },
+        {
+            "id": 351,
+            "eng": "Castform",
+            "cht": "飄浮泡泡"
+        },
+        {
+            "id": 352,
+            "eng": "Kecleon",
+            "cht": "變隱龍"
+        },
+        {
+            "id": 353,
+            "eng": "Shuppet",
+            "cht": "怨影娃娃"
+        },
+        {
+            "id": 354,
+            "eng": "Banette",
+            "cht": "詛咒娃娃"
+        },
+        {
+            "id": 355,
+            "eng": "Duskull",
+            "cht": "夜巡靈"
+        },
+        {
+            "id": 356,
+            "eng": "Dusclops",
+            "cht": "彷徨夜靈"
+        },
+        {
+            "id": 357,
+            "eng": "Tropius",
+            "cht": "熱帶龍"
+        },
+        {
+            "id": 358,
+            "eng": "Chimecho",
+            "cht": "風鈴鈴"
+        },
+        {
+            "id": 359,
+            "eng": "Absol",
+            "cht": "阿勃梭魯"
+        },
+        {
+            "id": 360,
+            "eng": "Wynaut",
+            "cht": "小果然"
+        },
+        {
+            "id": 361,
+            "eng": "Snorunt",
+            "cht": "雪童子"
+        },
+        {
+            "id": 362,
+            "eng": "Glalie",
+            "cht": "冰鬼護"
+        },
+        {
+            "id": 363,
+            "eng": "Spheal",
+            "cht": "海豹球"
+        },
+        {
+            "id": 364,
+            "eng": "Sealeo",
+            "cht": "海魔獅"
+        },
+        {
+            "id": 365,
+            "eng": "Walrein",
+            "cht": "帝牙海獅"
+        },
+        {
+            "id": 366,
+            "eng": "Clamperl",
+            "cht": "珍珠貝"
+        },
+        {
+            "id": 367,
+            "eng": "Huntail",
+            "cht": "獵斑魚"
+        },
+        {
+            "id": 368,
+            "eng": "Gorebyss",
+            "cht": "櫻花魚"
+        },
+        {
+            "id": 369,
+            "eng": "Relicanth",
+            "cht": "古空棘魚"
+        },
+        {
+            "id": 370,
+            "eng": "Luvdisc",
+            "cht": "愛心魚"
+        },
+        {
+            "id": 371,
+            "eng": "Bagon",
+            "cht": "寶貝龍"
+        },
+        {
+            "id": 372,
+            "eng": "Shelgon",
+            "cht": "甲殼龍"
+        },
+        {
+            "id": 373,
+            "eng": "Salamence",
+            "cht": "暴飛龍"
+        },
+        {
+            "id": 374,
+            "eng": "Beldum",
+            "cht": "鐵啞鈴"
+        },
+        {
+            "id": 375,
+            "eng": "Metang",
+            "cht": "金屬怪"
+        },
+        {
+            "id": 376,
+            "eng": "Metagross",
+            "cht": "巨金怪"
+        },
+        {
+            "id": 377,
+            "eng": "Regirock",
+            "cht": "雷吉洛克"
+        },
+        {
+            "id": 378,
+            "eng": "Regice",
+            "cht": "雷吉艾斯"
+        },
+        {
+            "id": 379,
+            "eng": "Registeel",
+            "cht": "雷吉斯奇魯"
+        },
+        {
+            "id": 380,
+            "eng": "Latias",
+            "cht": "拉帝亞斯"
+        },
+        {
+            "id": 381,
+            "eng": "Latios",
+            "cht": "拉帝歐斯"
+        },
+        {
+            "id": 382,
+            "eng": "Kyogre",
+            "cht": "蓋歐卡"
+        },
+        {
+            "id": 383,
+            "eng": "Groudon",
+            "cht": "固拉多"
+        },
+        {
+            "id": 384,
+            "eng": "Rayquaza",
+            "cht": "烈空坐"
+        },
+        {
+            "id": 385,
+            "eng": "Jirachi",
+            "cht": "基拉祈"
+        },
+        {
+            "id": 386,
+            "eng": "Deoxys",
+            "cht": "代歐奇希斯"
+        },
+        {
+            "id": 387,
+            "eng": "Turtwig",
+            "cht": "草苗龜"
+        },
+        {
+            "id": 388,
+            "eng": "Grotle",
+            "cht": "樹林龜"
+        },
+        {
+            "id": 389,
+            "eng": "Torterra",
+            "cht": "土台龜"
+        },
+        {
+            "id": 390,
+            "eng": "Chimchar",
+            "cht": "小火焰猴"
+        },
+        {
+            "id": 391,
+            "eng": "Monferno",
+            "cht": "猛火猴"
+        },
+        {
+            "id": 392,
+            "eng": "Infernape",
+            "cht": "烈焰猴"
+        },
+        {
+            "id": 393,
+            "eng": "Piplup",
+            "cht": "波加曼"
+        },
+        {
+            "id": 394,
+            "eng": "Prinplup",
+            "cht": "波皇子"
+        },
+        {
+            "id": 395,
+            "eng": "Empoleon",
+            "cht": "帝王拿波"
+        },
+        {
+            "id": 396,
+            "eng": "Starly",
+            "cht": "姆克兒"
+        },
+        {
+            "id": 397,
+            "eng": "Staravia",
+            "cht": "姆克鳥"
+        },
+        {
+            "id": 398,
+            "eng": "Staraptor",
+            "cht": "姆克鷹"
+        },
+        {
+            "id": 399,
+            "eng": "Bidoof",
+            "cht": "大牙狸"
+        },
+        {
+            "id": 400,
+            "eng": "Bibarel",
+            "cht": "大尾狸"
+        },
+        {
+            "id": 401,
+            "eng": "Kricketot",
+            "cht": "圓法師"
+        },
+        {
+            "id": 402,
+            "eng": "Kricketune",
+            "cht": "音箱蟀"
+        },
+        {
+            "id": 403,
+            "eng": "Shinx",
+            "cht": "小貓怪"
+        },
+        {
+            "id": 404,
+            "eng": "Luxio",
+            "cht": "勒克貓"
+        },
+        {
+            "id": 405,
+            "eng": "Luxray",
+            "cht": "倫琴貓"
+        },
+        {
+            "id": 406,
+            "eng": "Budew",
+            "cht": "含羞苞"
+        },
+        {
+            "id": 407,
+            "eng": "Roserade",
+            "cht": "羅絲雷朵"
+        },
+        {
+            "id": 408,
+            "eng": "Cranidos",
+            "cht": "頭蓋龍"
+        },
+        {
+            "id": 409,
+            "eng": "Rampardos",
+            "cht": "戰槌龍"
+        },
+        {
+            "id": 410,
+            "eng": "Shieldon",
+            "cht": "盾甲龍"
+        },
+        {
+            "id": 411,
+            "eng": "Bastiodon",
+            "cht": "護城龍"
+        },
+        {
+            "id": 412,
+            "eng": "Burmy",
+            "cht": "結草兒"
+        },
+        {
+            "id": 413,
+            "eng": "Wormadam",
+            "cht": "結草貴婦"
+        },
+        {
+            "id": 414,
+            "eng": "Mothim",
+            "cht": "紳士蛾"
+        },
+        {
+            "id": 415,
+            "eng": "Combee",
+            "cht": "三蜜蜂"
+        },
+        {
+            "id": 416,
+            "eng": "Vespiquen",
+            "cht": "蜂女王"
+        },
+        {
+            "id": 417,
+            "eng": "Pachirisu",
+            "cht": "帕奇利茲"
+        },
+        {
+            "id": 418,
+            "eng": "Buizel",
+            "cht": "泳圈鼬"
+        },
+        {
+            "id": 419,
+            "eng": "Floatzel",
+            "cht": "浮潛鼬"
+        },
+        {
+            "id": 420,
+            "eng": "Cherubi",
+            "cht": "櫻花寶"
+        },
+        {
+            "id": 421,
+            "eng": "Cherrim",
+            "cht": "櫻花兒"
+        },
+        {
+            "id": 422,
+            "eng": "Shellos",
+            "cht": "無殼海兔"
+        },
+        {
+            "id": 423,
+            "eng": "Gastrodon",
+            "cht": "海兔獸"
+        },
+        {
+            "id": 424,
+            "eng": "Ambipom",
+            "cht": "雙尾怪手"
+        },
+        {
+            "id": 425,
+            "eng": "Drifloon",
+            "cht": "飄飄球"
+        },
+        {
+            "id": 426,
+            "eng": "Drifblim",
+            "cht": "隨風球"
+        },
+        {
+            "id": 427,
+            "eng": "Buneary",
+            "cht": "捲捲耳"
+        },
+        {
+            "id": 428,
+            "eng": "Lopunny",
+            "cht": "長耳兔"
+        },
+        {
+            "id": 429,
+            "eng": "Mismagius",
+            "cht": "夢妖魔"
+        },
+        {
+            "id": 430,
+            "eng": "Honchkrow",
+            "cht": "烏鴉頭頭"
+        },
+        {
+            "id": 431,
+            "eng": "Glameow",
+            "cht": "魅力喵"
+        },
+        {
+            "id": 432,
+            "eng": "Purugly",
+            "cht": "東施喵"
+        },
+        {
+            "id": 433,
+            "eng": "Chingling",
+            "cht": "鈴鐺響"
+        },
+        {
+            "id": 434,
+            "eng": "Stunky",
+            "cht": "臭鼬噗"
+        },
+        {
+            "id": 435,
+            "eng": "Skuntank",
+            "cht": "坦克臭鼬"
+        },
+        {
+            "id": 436,
+            "eng": "Bronzor",
+            "cht": "銅鏡怪"
+        },
+        {
+            "id": 437,
+            "eng": "Bronzong",
+            "cht": "青銅鐘"
+        },
+        {
+            "id": 438,
+            "eng": "Bonsly",
+            "cht": "盆才怪"
+        },
+        {
+            "id": 439,
+            "eng": "Mime Jr.",
+            "cht": "魔尼尼"
+        },
+        {
+            "id": 440,
+            "eng": "Happiny",
+            "cht": "小福蛋"
+        },
+        {
+            "id": 441,
+            "eng": "Chatot",
+            "cht": "聒噪鳥"
+        },
+        {
+            "id": 442,
+            "eng": "Spiritomb",
+            "cht": "花岩怪"
+        },
+        {
+            "id": 443,
+            "eng": "Gible",
+            "cht": "圓陸鯊"
+        },
+        {
+            "id": 444,
+            "eng": "Gabite",
+            "cht": "尖牙陸鯊"
+        },
+        {
+            "id": 445,
+            "eng": "Garchomp",
+            "cht": "烈咬陸鯊"
+        },
+        {
+            "id": 446,
+            "eng": "Munchlax",
+            "cht": "小卡比獸"
+        },
+        {
+            "id": 447,
+            "eng": "Riolu",
+            "cht": "利歐路"
+        },
+        {
+            "id": 448,
+            "eng": "Lucario",
+            "cht": "路卡利歐"
+        },
+        {
+            "id": 449,
+            "eng": "Hippopotas",
+            "cht": "沙河馬"
+        },
+        {
+            "id": 450,
+            "eng": "Hippowdon",
+            "cht": "河馬獸"
+        },
+        {
+            "id": 451,
+            "eng": "Skorupi",
+            "cht": "鉗尾蠍"
+        },
+        {
+            "id": 452,
+            "eng": "Drapion",
+            "cht": "龍王蠍"
+        },
+        {
+            "id": 453,
+            "eng": "Croagunk",
+            "cht": "不良蛙"
+        },
+        {
+            "id": 454,
+            "eng": "Toxicroak",
+            "cht": "毒骷蛙"
+        },
+        {
+            "id": 455,
+            "eng": "Carnivine",
+            "cht": "尖牙籠"
+        },
+        {
+            "id": 456,
+            "eng": "Finneon",
+            "cht": "螢光魚"
+        },
+        {
+            "id": 457,
+            "eng": "Lumineon",
+            "cht": "霓虹魚"
+        },
+        {
+            "id": 458,
+            "eng": "Mantyke",
+            "cht": "小球飛魚"
+        },
+        {
+            "id": 459,
+            "eng": "Snover",
+            "cht": "雪笠怪"
+        },
+        {
+            "id": 460,
+            "eng": "Abomasnow",
+            "cht": "暴雪王"
+        },
+        {
+            "id": 461,
+            "eng": "Weavile",
+            "cht": "瑪狃拉"
+        },
+        {
+            "id": 462,
+            "eng": "Magnezone",
+            "cht": "自爆磁怪"
+        },
+        {
+            "id": 463,
+            "eng": "Lickilicky",
+            "cht": "大舌舔"
+        },
+        {
+            "id": 464,
+            "eng": "Rhyperior",
+            "cht": "超甲狂犀"
+        },
+        {
+            "id": 465,
+            "eng": "Tangrowth",
+            "cht": "巨蔓藤"
+        },
+        {
+            "id": 466,
+            "eng": "Electivire",
+            "cht": "電擊魔獸"
+        },
+        {
+            "id": 467,
+            "eng": "Magmortar",
+            "cht": "鴨嘴炎獸"
+        },
+        {
+            "id": 468,
+            "eng": "Togekiss",
+            "cht": "波克基斯"
+        },
+        {
+            "id": 469,
+            "eng": "Yanmega",
+            "cht": "遠古巨蜓"
+        },
+        {
+            "id": 470,
+            "eng": "Leafeon",
+            "cht": "葉伊布"
+        },
+        {
+            "id": 471,
+            "eng": "Glaceon",
+            "cht": "冰伊布"
+        },
+        {
+            "id": 472,
+            "eng": "Gliscor",
+            "cht": "天蠍王"
+        },
+        {
+            "id": 473,
+            "eng": "Mamoswine",
+            "cht": "象牙豬"
+        },
+        {
+            "id": 474,
+            "eng": "Porygon-Z",
+            "cht": "多邊獸Ｚ"
+        },
+        {
+            "id": 475,
+            "eng": "Gallade",
+            "cht": "艾路雷朵"
+        },
+        {
+            "id": 476,
+            "eng": "Probopass",
+            "cht": "大朝北鼻"
+        },
+        {
+            "id": 477,
+            "eng": "Dusknoir",
+            "cht": "黑夜魔靈"
+        },
+        {
+            "id": 478,
+            "eng": "Froslass",
+            "cht": "雪妖女"
+        },
+        {
+            "id": 479,
+            "eng": "Rotom",
+            "cht": "洛托姆"
+        },
+        {
+            "id": 480,
+            "eng": "Uxie",
+            "cht": "由克希"
+        },
+        {
+            "id": 481,
+            "eng": "Mesprit",
+            "cht": "艾姆利多"
+        },
+        {
+            "id": 482,
+            "eng": "Azelf",
+            "cht": "亞克諾姆"
+        },
+        {
+            "id": 483,
+            "eng": "Dialga",
+            "cht": "帝牙盧卡"
+        },
+        {
+            "id": 484,
+            "eng": "Palkia",
+            "cht": "帕路奇亞"
+        },
+        {
+            "id": 485,
+            "eng": "Heatran",
+            "cht": "席多藍恩"
+        },
+        {
+            "id": 486,
+            "eng": "Regigigas",
+            "cht": "雷吉奇卡斯"
+        },
+        {
+            "id": 487,
+            "eng": "Giratina",
+            "cht": "騎拉帝納"
+        },
+        {
+            "id": 488,
+            "eng": "Cresselia",
+            "cht": "克雷色利亞"
+        },
+        {
+            "id": 489,
+            "eng": "Phione",
+            "cht": "霏歐納"
+        },
+        {
+            "id": 490,
+            "eng": "Manaphy",
+            "cht": "瑪納霏"
+        },
+        {
+            "id": 491,
+            "eng": "Darkrai",
+            "cht": "達克萊伊"
+        },
+        {
+            "id": 492,
+            "eng": "Shaymin",
+            "cht": "謝米"
+        },
+        {
+            "id": 493,
+            "eng": "Arceus",
+            "cht": "阿爾宙斯"
+        },
+        {
+            "id": 494,
+            "eng": "Victini",
+            "cht": "比克提尼"
+        },
+        {
+            "id": 495,
+            "eng": "Snivy",
+            "cht": "藤藤蛇"
+        },
+        {
+            "id": 496,
+            "eng": "Servine",
+            "cht": "青藤蛇"
+        },
+        {
+            "id": 497,
+            "eng": "Serperior",
+            "cht": "君主蛇"
+        },
+        {
+            "id": 498,
+            "eng": "Tepig",
+            "cht": "暖暖豬"
+        },
+        {
+            "id": 499,
+            "eng": "Pignite",
+            "cht": "炒炒豬"
+        },
+        {
+            "id": 500,
+            "eng": "Emboar",
+            "cht": "炎武王"
+        },
+        {
+            "id": 501,
+            "eng": "Oshawott",
+            "cht": "水水獺"
+        },
+        {
+            "id": 502,
+            "eng": "Dewott",
+            "cht": "雙刃丸"
+        },
+        {
+            "id": 503,
+            "eng": "Samurott",
+            "cht": "大劍鬼"
+        },
+        {
+            "id": 504,
+            "eng": "Patrat",
+            "cht": "探探鼠"
+        },
+        {
+            "id": 505,
+            "eng": "Watchog",
+            "cht": "步哨鼠"
+        },
+        {
+            "id": 506,
+            "eng": "Lillipup",
+            "cht": "小約克"
+        },
+        {
+            "id": 507,
+            "eng": "Herdier",
+            "cht": "哈約克"
+        },
+        {
+            "id": 508,
+            "eng": "Stoutland",
+            "cht": "長毛狗"
+        },
+        {
+            "id": 509,
+            "eng": "Purrloin",
+            "cht": "扒手貓"
+        },
+        {
+            "id": 510,
+            "eng": "Liepard",
+            "cht": "酷豹"
+        },
+        {
+            "id": 511,
+            "eng": "Pansage",
+            "cht": "花椰猴"
+        },
+        {
+            "id": 512,
+            "eng": "Simisage",
+            "cht": "花椰猿"
+        },
+        {
+            "id": 513,
+            "eng": "Pansear",
+            "cht": "爆香猴"
+        },
+        {
+            "id": 514,
+            "eng": "Simisear",
+            "cht": "爆香猿"
+        },
+        {
+            "id": 515,
+            "eng": "Panpour",
+            "cht": "冷水猴"
+        },
+        {
+            "id": 516,
+            "eng": "Simipour",
+            "cht": "冷水猿"
+        },
+        {
+            "id": 517,
+            "eng": "Munna",
+            "cht": "食夢夢"
+        },
+        {
+            "id": 518,
+            "eng": "Musharna",
+            "cht": "夢夢蝕"
+        },
+        {
+            "id": 519,
+            "eng": "Pidove",
+            "cht": "豆豆鴿"
+        },
+        {
+            "id": 520,
+            "eng": "Tranquill",
+            "cht": "咕咕鴿"
+        },
+        {
+            "id": 521,
+            "eng": "Unfezant",
+            "cht": "高傲雉雞"
+        },
+        {
+            "id": 522,
+            "eng": "Blitzle",
+            "cht": "斑斑馬"
+        },
+        {
+            "id": 523,
+            "eng": "Zebstrika",
+            "cht": "雷電斑馬"
+        },
+        {
+            "id": 524,
+            "eng": "Roggenrola",
+            "cht": "石丸子"
+        },
+        {
+            "id": 525,
+            "eng": "Boldore",
+            "cht": "地幔岩"
+        },
+        {
+            "id": 526,
+            "eng": "Gigalith",
+            "cht": "龐岩怪"
+        },
+        {
+            "id": 527,
+            "eng": "Woobat",
+            "cht": "滾滾蝙蝠"
+        },
+        {
+            "id": 528,
+            "eng": "Swoobat",
+            "cht": "心蝙蝠"
+        },
+        {
+            "id": 529,
+            "eng": "Drilbur",
+            "cht": "螺釘地鼠"
+        },
+        {
+            "id": 530,
+            "eng": "Excadrill",
+            "cht": "龍頭地鼠"
+        },
+        {
+            "id": 531,
+            "eng": "Audino",
+            "cht": "差不多娃娃"
+        },
+        {
+            "id": 532,
+            "eng": "Timburr",
+            "cht": "搬運小匠"
+        },
+        {
+            "id": 533,
+            "eng": "Gurdurr",
+            "cht": "鐵骨土人"
+        },
+        {
+            "id": 534,
+            "eng": "Conkeldurr",
+            "cht": "修建老匠"
+        },
+        {
+            "id": 535,
+            "eng": "Tympole",
+            "cht": "圓蝌蚪"
+        },
+        {
+            "id": 536,
+            "eng": "Palpitoad",
+            "cht": "藍蟾蜍"
+        },
+        {
+            "id": 537,
+            "eng": "Seismitoad",
+            "cht": "蟾蜍王"
+        },
+        {
+            "id": 538,
+            "eng": "Throh",
+            "cht": "投摔鬼"
+        },
+        {
+            "id": 539,
+            "eng": "Sawk",
+            "cht": "打擊鬼"
+        },
+        {
+            "id": 540,
+            "eng": "Sewaddle",
+            "cht": "蟲寶包"
+        },
+        {
+            "id": 541,
+            "eng": "Swadloon",
+            "cht": "寶包繭"
+        },
+        {
+            "id": 542,
+            "eng": "Leavanny",
+            "cht": "保母蟲"
+        },
+        {
+            "id": 543,
+            "eng": "Venipede",
+            "cht": "百足蜈蚣"
+        },
+        {
+            "id": 544,
+            "eng": "Whirlipede",
+            "cht": "車輪毬"
+        },
+        {
+            "id": 545,
+            "eng": "Scolipede",
+            "cht": "蜈蚣王"
+        },
+        {
+            "id": 546,
+            "eng": "Cottonee",
+            "cht": "木棉球"
+        },
+        {
+            "id": 547,
+            "eng": "Whimsicott",
+            "cht": "風妖精"
+        },
+        {
+            "id": 548,
+            "eng": "Petilil",
+            "cht": "百合根娃娃"
+        },
+        {
+            "id": 549,
+            "eng": "Lilligant",
+            "cht": "裙兒小姐"
+        },
+        {
+            "id": 550,
+            "eng": "Basculin",
+            "cht": "野蠻鱸魚"
+        },
+        {
+            "id": 551,
+            "eng": "Sandile",
+            "cht": "黑眼鱷"
+        },
+        {
+            "id": 552,
+            "eng": "Krokorok",
+            "cht": "混混鱷"
+        },
+        {
+            "id": 553,
+            "eng": "Krookodile",
+            "cht": "流氓鱷"
+        },
+        {
+            "id": 554,
+            "eng": "Darumaka",
+            "cht": "火紅不倒翁"
+        },
+        {
+            "id": 555,
+            "eng": "Darmanitan",
+            "cht": "達摩狒狒"
+        },
+        {
+            "id": 556,
+            "eng": "Maractus",
+            "cht": "沙鈴仙人掌"
+        },
+        {
+            "id": 557,
+            "eng": "Dwebble",
+            "cht": "石居蟹"
+        },
+        {
+            "id": 558,
+            "eng": "Crustle",
+            "cht": "岩殿居蟹"
+        },
+        {
+            "id": 559,
+            "eng": "Scraggy",
+            "cht": "滑滑小子"
+        },
+        {
+            "id": 560,
+            "eng": "Scrafty",
+            "cht": "頭巾混混"
+        },
+        {
+            "id": 561,
+            "eng": "Sigilyph",
+            "cht": "象徵鳥"
+        },
+        {
+            "id": 562,
+            "eng": "Yamask",
+            "cht": "哭哭面具"
+        },
+        {
+            "id": 563,
+            "eng": "Cofagrigus",
+            "cht": "死神棺"
+        },
+        {
+            "id": 564,
+            "eng": "Tirtouga",
+            "cht": "原蓋海龜"
+        },
+        {
+            "id": 565,
+            "eng": "Carracosta",
+            "cht": "肋骨海龜"
+        },
+        {
+            "id": 566,
+            "eng": "Archen",
+            "cht": "始祖小鳥"
+        },
+        {
+            "id": 567,
+            "eng": "Archeops",
+            "cht": "始祖大鳥"
+        },
+        {
+            "id": 568,
+            "eng": "Trubbish",
+            "cht": "破破袋"
+        },
+        {
+            "id": 569,
+            "eng": "Garbodor",
+            "cht": "灰塵山"
+        },
+        {
+            "id": 570,
+            "eng": "Zorua",
+            "cht": "索羅亞"
+        },
+        {
+            "id": 571,
+            "eng": "Zoroark",
+            "cht": "索羅亞克"
+        },
+        {
+            "id": 572,
+            "eng": "Minccino",
+            "cht": "泡沫栗鼠"
+        },
+        {
+            "id": 573,
+            "eng": "Cinccino",
+            "cht": "奇諾栗鼠"
+        },
+        {
+            "id": 574,
+            "eng": "Gothita",
+            "cht": "哥德寶寶"
+        },
+        {
+            "id": 575,
+            "eng": "Gothorita",
+            "cht": "哥德小童"
+        },
+        {
+            "id": 576,
+            "eng": "Gothitelle",
+            "cht": "哥德小姐"
+        },
+        {
+            "id": 577,
+            "eng": "Solosis",
+            "cht": "單卵細胞球"
+        },
+        {
+            "id": 578,
+            "eng": "Duosion",
+            "cht": "雙卵細胞球"
+        },
+        {
+            "id": 579,
+            "eng": "Reuniclus",
+            "cht": "人造細胞卵"
+        },
+        {
+            "id": 580,
+            "eng": "Ducklett",
+            "cht": "鴨寶寶"
+        },
+        {
+            "id": 581,
+            "eng": "Swanna",
+            "cht": "舞天鵝"
+        },
+        {
+            "id": 582,
+            "eng": "Vanillite",
+            "cht": "迷你冰"
+        },
+        {
+            "id": 583,
+            "eng": "Vanillish",
+            "cht": "多多冰"
+        },
+        {
+            "id": 584,
+            "eng": "Vanilluxe",
+            "cht": "雙倍多多冰"
+        },
+        {
+            "id": 585,
+            "eng": "Deerling",
+            "cht": "四季鹿"
+        },
+        {
+            "id": 586,
+            "eng": "Sawsbuck",
+            "cht": "萌芽鹿"
+        },
+        {
+            "id": 587,
+            "eng": "Emolga",
+            "cht": "電飛鼠"
+        },
+        {
+            "id": 588,
+            "eng": "Karrablast",
+            "cht": "蓋蓋蟲"
+        },
+        {
+            "id": 589,
+            "eng": "Escavalier",
+            "cht": "騎士蝸牛"
+        },
+        {
+            "id": 590,
+            "eng": "Foongus",
+            "cht": "哎呀球菇"
+        },
+        {
+            "id": 591,
+            "eng": "Amoonguss",
+            "cht": "敗露球菇"
+        },
+        {
+            "id": 592,
+            "eng": "Frillish",
+            "cht": "輕飄飄"
+        },
+        {
+            "id": 593,
+            "eng": "Jellicent",
+            "cht": "胖嘟嘟"
+        },
+        {
+            "id": 594,
+            "eng": "Alomomola",
+            "cht": "保母曼波"
+        },
+        {
+            "id": 595,
+            "eng": "Joltik",
+            "cht": "電電蟲"
+        },
+        {
+            "id": 596,
+            "eng": "Galvantula",
+            "cht": "電蜘蛛"
+        },
+        {
+            "id": 597,
+            "eng": "Ferroseed",
+            "cht": "種子鐵球"
+        },
+        {
+            "id": 598,
+            "eng": "Ferrothorn",
+            "cht": "堅果啞鈴"
+        },
+        {
+            "id": 599,
+            "eng": "Klink",
+            "cht": "齒輪兒"
+        },
+        {
+            "id": 600,
+            "eng": "Klang",
+            "cht": "齒輪組"
+        },
+        {
+            "id": 601,
+            "eng": "Klinklang",
+            "cht": "齒輪怪"
+        },
+        {
+            "id": 602,
+            "eng": "Tynamo",
+            "cht": "麻麻小魚"
+        },
+        {
+            "id": 603,
+            "eng": "Eelektrik",
+            "cht": "麻麻鰻"
+        },
+        {
+            "id": 604,
+            "eng": "Eelektross",
+            "cht": "麻麻鰻魚王"
+        },
+        {
+            "id": 605,
+            "eng": "Elgyem",
+            "cht": "小灰怪"
+        },
+        {
+            "id": 606,
+            "eng": "Beheeyem",
+            "cht": "大宇怪"
+        },
+        {
+            "id": 607,
+            "eng": "Litwick",
+            "cht": "燭光靈"
+        },
+        {
+            "id": 608,
+            "eng": "Lampent",
+            "cht": "燈火幽靈"
+        },
+        {
+            "id": 609,
+            "eng": "Chandelure",
+            "cht": "水晶燈火靈"
+        },
+        {
+            "id": 610,
+            "eng": "Axew",
+            "cht": "牙牙"
+        },
+        {
+            "id": 611,
+            "eng": "Fraxure",
+            "cht": "斧牙龍"
+        },
+        {
+            "id": 612,
+            "eng": "Haxorus",
+            "cht": "雙斧戰龍"
+        },
+        {
+            "id": 613,
+            "eng": "Cubchoo",
+            "cht": "噴嚏熊"
+        },
+        {
+            "id": 614,
+            "eng": "Beartic",
+            "cht": "凍原熊"
+        },
+        {
+            "id": 615,
+            "eng": "Cryogonal",
+            "cht": "幾何雪花"
+        },
+        {
+            "id": 616,
+            "eng": "Shelmet",
+            "cht": "小嘴蝸"
+        },
+        {
+            "id": 617,
+            "eng": "Accelgor",
+            "cht": "敏捷蟲"
+        },
+        {
+            "id": 618,
+            "eng": "Stunfisk",
+            "cht": "泥巴魚"
+        },
+        {
+            "id": 619,
+            "eng": "Mienfoo",
+            "cht": "功夫鼬"
+        },
+        {
+            "id": 620,
+            "eng": "Mienshao",
+            "cht": "師父鼬"
+        },
+        {
+            "id": 621,
+            "eng": "Druddigon",
+            "cht": "赤面龍"
+        },
+        {
+            "id": 622,
+            "eng": "Golett",
+            "cht": "泥偶小人"
+        },
+        {
+            "id": 623,
+            "eng": "Golurk",
+            "cht": "泥偶巨人"
+        },
+        {
+            "id": 624,
+            "eng": "Pawniard",
+            "cht": "駒刀小兵"
+        },
+        {
+            "id": 625,
+            "eng": "Bisharp",
+            "cht": "劈斬司令"
+        },
+        {
+            "id": 626,
+            "eng": "Bouffalant",
+            "cht": "爆炸頭水牛"
+        },
+        {
+            "id": 627,
+            "eng": "Rufflet",
+            "cht": "毛頭小鷹"
+        },
+        {
+            "id": 628,
+            "eng": "Braviary",
+            "cht": "勇士雄鷹"
+        },
+        {
+            "id": 629,
+            "eng": "Vullaby",
+            "cht": "禿鷹丫頭"
+        },
+        {
+            "id": 630,
+            "eng": "Mandibuzz",
+            "cht": "禿鷹娜"
+        },
+        {
+            "id": 631,
+            "eng": "Heatmor",
+            "cht": "熔蟻獸"
+        },
+        {
+            "id": 632,
+            "eng": "Durant",
+            "cht": "鐵蟻"
+        },
+        {
+            "id": 633,
+            "eng": "Deino",
+            "cht": "單首龍"
+        },
+        {
+            "id": 634,
+            "eng": "Zweilous",
+            "cht": "雙首暴龍"
+        },
+        {
+            "id": 635,
+            "eng": "Hydreigon",
+            "cht": "三首惡龍"
+        },
+        {
+            "id": 636,
+            "eng": "Larvesta",
+            "cht": "燃燒蟲"
+        },
+        {
+            "id": 637,
+            "eng": "Volcarona",
+            "cht": "火神蛾"
+        },
+        {
+            "id": 638,
+            "eng": "Cobalion",
+            "cht": "勾帕路翁"
+        },
+        {
+            "id": 639,
+            "eng": "Terrakion",
+            "cht": "代拉基翁"
+        },
+        {
+            "id": 640,
+            "eng": "Virizion",
+            "cht": "畢力吉翁"
+        },
+        {
+            "id": 641,
+            "eng": "Tornadus",
+            "cht": "龍捲雲"
+        },
+        {
+            "id": 642,
+            "eng": "Thundurus",
+            "cht": "雷電雲"
+        },
+        {
+            "id": 643,
+            "eng": "Reshiram",
+            "cht": "萊希拉姆"
+        },
+        {
+            "id": 644,
+            "eng": "Zekrom",
+            "cht": "捷克羅姆"
+        },
+        {
+            "id": 645,
+            "eng": "Landorus",
+            "cht": "土地雲"
+        },
+        {
+            "id": 646,
+            "eng": "Kyurem",
+            "cht": "酋雷姆"
+        },
+        {
+            "id": 647,
+            "eng": "Keldeo",
+            "cht": "凱路迪歐"
+        },
+        {
+            "id": 648,
+            "eng": "Meloetta",
+            "cht": "美洛耶塔"
+        },
+        {
+            "id": 649,
+            "eng": "Genesect",
+            "cht": "蓋諾賽克特"
+        },
+        {
+            "id": 650,
+            "eng": "Chespin",
+            "cht": "哈力栗"
+        },
+        {
+            "id": 651,
+            "eng": "Quilladin",
+            "cht": "胖胖哈力"
+        },
+        {
+            "id": 652,
+            "eng": "Chesnaught",
+            "cht": "布里卡隆"
+        },
+        {
+            "id": 653,
+            "eng": "Fennekin",
+            "cht": "火狐狸"
+        },
+        {
+            "id": 654,
+            "eng": "Braixen",
+            "cht": "長尾火狐"
+        },
+        {
+            "id": 655,
+            "eng": "Delphox",
+            "cht": "妖火紅狐"
+        },
+        {
+            "id": 656,
+            "eng": "Froakie",
+            "cht": "呱呱泡蛙"
+        },
+        {
+            "id": 657,
+            "eng": "Frogadier",
+            "cht": "呱頭蛙"
+        },
+        {
+            "id": 658,
+            "eng": "Greninja",
+            "cht": "甲賀忍蛙"
+        },
+        {
+            "id": 659,
+            "eng": "Bunnelby",
+            "cht": "掘掘兔"
+        },
+        {
+            "id": 660,
+            "eng": "Diggersby",
+            "cht": "掘地兔"
+        },
+        {
+            "id": 661,
+            "eng": "Fletchling",
+            "cht": "小箭雀"
+        },
+        {
+            "id": 662,
+            "eng": "Fletchinder",
+            "cht": "火箭雀"
+        },
+        {
+            "id": 663,
+            "eng": "Talonflame",
+            "cht": "烈箭鷹"
+        },
+        {
+            "id": 664,
+            "eng": "Scatterbug",
+            "cht": "粉蝶蟲"
+        },
+        {
+            "id": 665,
+            "eng": "Spewpa",
+            "cht": "粉蝶蛹"
+        },
+        {
+            "id": 666,
+            "eng": "Vivillon",
+            "cht": "彩粉蝶"
+        },
+        {
+            "id": 667,
+            "eng": "Litleo",
+            "cht": "小獅獅"
+        },
+        {
+            "id": 668,
+            "eng": "Pyroar",
+            "cht": "火炎獅"
+        },
+        {
+            "id": 669,
+            "eng": "Flabébé",
+            "cht": "花蓓蓓"
+        },
+        {
+            "id": 670,
+            "eng": "Floette",
+            "cht": "花葉蒂"
+        },
+        {
+            "id": 671,
+            "eng": "Florges",
+            "cht": "花潔夫人"
+        },
+        {
+            "id": 672,
+            "eng": "Skiddo",
+            "cht": "坐騎小羊"
+        },
+        {
+            "id": 673,
+            "eng": "Gogoat",
+            "cht": "坐騎山羊"
+        },
+        {
+            "id": 674,
+            "eng": "Pancham",
+            "cht": "頑皮熊貓"
+        },
+        {
+            "id": 675,
+            "eng": "Pangoro",
+            "cht": "流氓熊貓"
+        },
+        {
+            "id": 676,
+            "eng": "Furfrou",
+            "cht": "多麗米亞"
+        },
+        {
+            "id": 677,
+            "eng": "Espurr",
+            "cht": "妙喵"
+        },
+        {
+            "id": 678,
+            "eng": "Meowstic",
+            "cht": "超能妙喵"
+        },
+        {
+            "id": 679,
+            "eng": "Honedge",
+            "cht": "獨劍鞘"
+        },
+        {
+            "id": 680,
+            "eng": "Doublade",
+            "cht": "雙劍鞘"
+        },
+        {
+            "id": 681,
+            "eng": "Aegislash",
+            "cht": "堅盾劍怪"
+        },
+        {
+            "id": 682,
+            "eng": "Spritzee",
+            "cht": "粉香香"
+        },
+        {
+            "id": 683,
+            "eng": "Aromatisse",
+            "cht": "芳香精"
+        },
+        {
+            "id": 684,
+            "eng": "Swirlix",
+            "cht": "綿綿泡芙"
+        },
+        {
+            "id": 685,
+            "eng": "Slurpuff",
+            "cht": "胖甜妮"
+        },
+        {
+            "id": 686,
+            "eng": "Inkay",
+            "cht": "好啦魷"
+        },
+        {
+            "id": 687,
+            "eng": "Malamar",
+            "cht": "烏賊王"
+        },
+        {
+            "id": 688,
+            "eng": "Binacle",
+            "cht": "龜腳腳"
+        },
+        {
+            "id": 689,
+            "eng": "Barbaracle",
+            "cht": "龜足巨鎧"
+        },
+        {
+            "id": 690,
+            "eng": "Skrelp",
+            "cht": "垃垃藻"
+        },
+        {
+            "id": 691,
+            "eng": "Dragalge",
+            "cht": "毒藻龍"
+        },
+        {
+            "id": 692,
+            "eng": "Clauncher",
+            "cht": "鐵臂槍蝦"
+        },
+        {
+            "id": 693,
+            "eng": "Clawitzer",
+            "cht": "鋼炮臂蝦"
+        },
+        {
+            "id": 694,
+            "eng": "Helioptile",
+            "cht": "傘電蜥"
+        },
+        {
+            "id": 695,
+            "eng": "Heliolisk",
+            "cht": "光電傘蜥"
+        },
+        {
+            "id": 696,
+            "eng": "Tyrunt",
+            "cht": "寶寶暴龍"
+        },
+        {
+            "id": 697,
+            "eng": "Tyrantrum",
+            "cht": "怪顎龍"
+        },
+        {
+            "id": 698,
+            "eng": "Amaura",
+            "cht": "冰雪龍"
+        },
+        {
+            "id": 699,
+            "eng": "Aurorus",
+            "cht": "冰雪巨龍"
+        },
+        {
+            "id": 700,
+            "eng": "Sylveon",
+            "cht": "仙子伊布"
+        },
+        {
+            "id": 701,
+            "eng": "Hawlucha",
+            "cht": "摔角鷹人"
+        },
+        {
+            "id": 702,
+            "eng": "Dedenne",
+            "cht": "咚咚鼠"
+        },
+        {
+            "id": 703,
+            "eng": "Carbink",
+            "cht": "小碎鑽"
+        },
+        {
+            "id": 704,
+            "eng": "Goomy",
+            "cht": "黏黏寶"
+        },
+        {
+            "id": 705,
+            "eng": "Sliggoo",
+            "cht": "黏美兒"
+        },
+        {
+            "id": 706,
+            "eng": "Goodra",
+            "cht": "黏美龍"
+        },
+        {
+            "id": 707,
+            "eng": "Klefki",
+            "cht": "鑰圈兒"
+        },
+        {
+            "id": 708,
+            "eng": "Phantump",
+            "cht": "小木靈"
+        },
+        {
+            "id": 709,
+            "eng": "Trevenant",
+            "cht": "朽木妖"
+        },
+        {
+            "id": 710,
+            "eng": "Pumpkaboo",
+            "cht": "南瓜精"
+        },
+        {
+            "id": 711,
+            "eng": "Gourgeist",
+            "cht": "南瓜怪人"
+        },
+        {
+            "id": 712,
+            "eng": "Bergmite",
+            "cht": "冰寶"
+        },
+        {
+            "id": 713,
+            "eng": "Avalugg",
+            "cht": "冰岩怪"
+        },
+        {
+            "id": 714,
+            "eng": "Noibat",
+            "cht": "嗡蝠"
+        },
+        {
+            "id": 715,
+            "eng": "Noivern",
+            "cht": "音波龍"
+        },
+        {
+            "id": 716,
+            "eng": "Xerneas",
+            "cht": "哲爾尼亞斯"
+        },
+        {
+            "id": 717,
+            "eng": "Yveltal",
+            "cht": "伊裴爾塔爾"
+        },
+        {
+            "id": 718,
+            "eng": "Zygarde",
+            "cht": "基格爾德"
+        },
+        {
+            "id": 719,
+            "eng": "Diancie",
+            "cht": "蒂安希"
+        },
+        {
+            "id": 720,
+            "eng": "Hoopa",
+            "cht": "胡帕"
+        },
+        {
+            "id": 721,
+            "eng": "Volcanion",
+            "cht": "波爾凱尼恩"
+        },
+        {
+            "id": 722,
+            "eng": "Rowlet",
+            "cht": "木木梟"
+        },
+        {
+            "id": 723,
+            "eng": "Dartrix",
+            "cht": "投羽梟"
+        },
+        {
+            "id": 724,
+            "eng": "Decidueye",
+            "cht": "狙射樹梟"
+        },
+        {
+            "id": 725,
+            "eng": "Litten",
+            "cht": "火斑喵"
+        },
+        {
+            "id": 726,
+            "eng": "Torracat",
+            "cht": "炎熱喵"
+        },
+        {
+            "id": 727,
+            "eng": "Incineroar",
+            "cht": "熾焰咆哮虎"
+        },
+        {
+            "id": 728,
+            "eng": "Popplio",
+            "cht": "球球海獅"
+        },
+        {
+            "id": 729,
+            "eng": "Brionne",
+            "cht": "花漾海獅"
+        },
+        {
+            "id": 730,
+            "eng": "Primarina",
+            "cht": "西獅海壬"
+        },
+        {
+            "id": 731,
+            "eng": "Pikipek",
+            "cht": "小篤兒"
+        },
+        {
+            "id": 732,
+            "eng": "Trumbeak",
+            "cht": "喇叭啄鳥"
+        },
+        {
+            "id": 733,
+            "eng": "Toucannon",
+            "cht": "銃嘴大鳥"
+        },
+        {
+            "id": 734,
+            "eng": "Yungoos",
+            "cht": "貓鼬少"
+        },
+        {
+            "id": 735,
+            "eng": "Gumshoos",
+            "cht": "貓鼬探長"
+        },
+        {
+            "id": 736,
+            "eng": "Grubbin",
+            "cht": "強顎雞母蟲"
+        },
+        {
+            "id": 737,
+            "eng": "Charjabug",
+            "cht": "蟲電寶"
+        },
+        {
+            "id": 738,
+            "eng": "Vikavolt",
+            "cht": "鍬農炮蟲"
+        },
+        {
+            "id": 739,
+            "eng": "Crabrawler",
+            "cht": "好勝蟹"
+        },
+        {
+            "id": 740,
+            "eng": "Crabominable",
+            "cht": "好勝毛蟹"
+        },
+        {
+            "id": 741,
+            "eng": "Oricorio",
+            "cht": "花舞鳥"
+        },
+        {
+            "id": 742,
+            "eng": "Cutiefly",
+            "cht": "萌虻"
+        },
+        {
+            "id": 743,
+            "eng": "Ribombee",
+            "cht": "蝶結萌虻"
+        },
+        {
+            "id": 744,
+            "eng": "Rockruff",
+            "cht": "岩狗狗"
+        },
+        {
+            "id": 745,
+            "eng": "Lycanroc",
+            "cht": "鬃岩狼人"
+        },
+        {
+            "id": 746,
+            "eng": "Wishiwashi",
+            "cht": "弱丁魚"
+        },
+        {
+            "id": 747,
+            "eng": "Mareanie",
+            "cht": "好壞星"
+        },
+        {
+            "id": 748,
+            "eng": "Toxapex",
+            "cht": "超壞星"
+        },
+        {
+            "id": 749,
+            "eng": "Mudbray",
+            "cht": "泥驢仔"
+        },
+        {
+            "id": 750,
+            "eng": "Mudsdale",
+            "cht": "重泥挽馬"
+        },
+        {
+            "id": 751,
+            "eng": "Dewpider",
+            "cht": "滴蛛"
+        },
+        {
+            "id": 752,
+            "eng": "Araquanid",
+            "cht": "滴蛛霸"
+        },
+        {
+            "id": 753,
+            "eng": "Fomantis",
+            "cht": "偽螳草"
+        },
+        {
+            "id": 754,
+            "eng": "Lurantis",
+            "cht": "蘭螳花"
+        },
+        {
+            "id": 755,
+            "eng": "Morelull",
+            "cht": "睡睡菇"
+        },
+        {
+            "id": 756,
+            "eng": "Shiinotic",
+            "cht": "燈罩夜菇"
+        },
+        {
+            "id": 757,
+            "eng": "Salandit",
+            "cht": "夜盜火蜥"
+        },
+        {
+            "id": 758,
+            "eng": "Salazzle",
+            "cht": "焰后蜥"
+        },
+        {
+            "id": 759,
+            "eng": "Stufful",
+            "cht": "童偶熊"
+        },
+        {
+            "id": 760,
+            "eng": "Bewear",
+            "cht": "穿著熊"
+        },
+        {
+            "id": 761,
+            "eng": "Bounsweet",
+            "cht": "甜竹竹"
+        },
+        {
+            "id": 762,
+            "eng": "Steenee",
+            "cht": "甜舞妮"
+        },
+        {
+            "id": 763,
+            "eng": "Tsareena",
+            "cht": "甜冷美后"
+        },
+        {
+            "id": 764,
+            "eng": "Comfey",
+            "cht": "花療環環"
+        },
+        {
+            "id": 765,
+            "eng": "Oranguru",
+            "cht": "智揮猩"
+        },
+        {
+            "id": 766,
+            "eng": "Passimian",
+            "cht": "投擲猴"
+        },
+        {
+            "id": 767,
+            "eng": "Wimpod",
+            "cht": "膽小蟲"
+        },
+        {
+            "id": 768,
+            "eng": "Golisopod",
+            "cht": "具甲武者"
+        },
+        {
+            "id": 769,
+            "eng": "Sandygast",
+            "cht": "沙丘娃"
+        },
+        {
+            "id": 770,
+            "eng": "Palossand",
+            "cht": "噬沙堡爺"
+        },
+        {
+            "id": 771,
+            "eng": "Pyukumuku",
+            "cht": "拳海參"
+        },
+        {
+            "id": 772,
+            "eng": "Type: Null",
+            "cht": "屬性：空"
+        },
+        {
+            "id": 773,
+            "eng": "Silvally",
+            "cht": "銀伴戰獸"
+        },
+        {
+            "id": 774,
+            "eng": "Minior",
+            "cht": "小隕星"
+        },
+        {
+            "id": 775,
+            "eng": "Komala",
+            "cht": "樹枕尾熊"
+        },
+        {
+            "id": 776,
+            "eng": "Turtonator",
+            "cht": "爆焰龜獸"
+        },
+        {
+            "id": 777,
+            "eng": "Togedemaru",
+            "cht": "托戈德瑪爾"
+        },
+        {
+            "id": 778,
+            "eng": "Mimikyu",
+            "cht": "謎擬Ｑ"
+        },
+        {
+            "id": 779,
+            "eng": "Bruxish",
+            "cht": "磨牙彩皮魚"
+        },
+        {
+            "id": 780,
+            "eng": "Drampa",
+            "cht": "老翁龍"
+        },
+        {
+            "id": 781,
+            "eng": "Dhelmise",
+            "cht": "破破舵輪"
+        },
+        {
+            "id": 782,
+            "eng": "Jangmo-o",
+            "cht": "心鱗寶"
+        },
+        {
+            "id": 783,
+            "eng": "Hakamo-o",
+            "cht": "鱗甲龍"
+        },
+        {
+            "id": 784,
+            "eng": "Kommo-o",
+            "cht": "杖尾鱗甲龍"
+        },
+        {
+            "id": 785,
+            "eng": "Tapu Koko",
+            "cht": "卡璞・鳴鳴"
+        },
+        {
+            "id": 786,
+            "eng": "Tapu Lele",
+            "cht": "卡璞・蝶蝶"
+        },
+        {
+            "id": 787,
+            "eng": "Tapu Bulu",
+            "cht": "卡璞・哞哞"
+        },
+        {
+            "id": 788,
+            "eng": "Tapu Fini",
+            "cht": "卡璞・鰭鰭"
+        },
+        {
+            "id": 789,
+            "eng": "Cosmog",
+            "cht": "科斯莫古"
+        },
+        {
+            "id": 790,
+            "eng": "Cosmoem",
+            "cht": "科斯莫姆"
+        },
+        {
+            "id": 791,
+            "eng": "Solgaleo",
+            "cht": "索爾迦雷歐"
+        },
+        {
+            "id": 792,
+            "eng": "Lunala",
+            "cht": "露奈雅拉"
+        },
+        {
+            "id": 793,
+            "eng": "Nihilego",
+            "cht": "虛吾伊德"
+        },
+        {
+            "id": 794,
+            "eng": "Buzzwole",
+            "cht": "爆肌蚊"
+        },
+        {
+            "id": 795,
+            "eng": "Pheromosa",
+            "cht": "費洛美螂"
+        },
+        {
+            "id": 796,
+            "eng": "Xurkitree",
+            "cht": "電束木"
+        },
+        {
+            "id": 797,
+            "eng": "Celesteela",
+            "cht": "鐵火輝夜"
+        },
+        {
+            "id": 798,
+            "eng": "Kartana",
+            "cht": "紙御劍"
+        },
+        {
+            "id": 799,
+            "eng": "Guzzlord",
+            "cht": "惡食大王"
+        },
+        {
+            "id": 800,
+            "eng": "Necrozma",
+            "cht": "奈克洛茲瑪"
+        },
+        {
+            "id": 801,
+            "eng": "Magearna",
+            "cht": "瑪機雅娜"
+        },
+        {
+            "id": 802,
+            "eng": "Marshadow",
+            "cht": "瑪夏多"
+        },
+        {
+            "id": 803,
+            "eng": "Poipole",
+            "cht": "毒貝比"
+        },
+        {
+            "id": 804,
+            "eng": "Naganadel",
+            "cht": "四顎針龍"
+        },
+        {
+            "id": 805,
+            "eng": "Stakataka",
+            "cht": "壘磊石"
+        },
+        {
+            "id": 806,
+            "eng": "Blacephalon",
+            "cht": "砰頭小丑"
+        },
+        {
+            "id": 807,
+            "eng": "Zeraora",
+            "cht": "捷拉奧拉"
+        },
+        {
+            "id": 808,
+            "eng": "Meltan",
+            "cht": "美錄坦"
+        },
+        {
+            "id": 809,
+            "eng": "Melmetal",
+            "cht": "美錄梅塔"
+        },
+        {
+            "id": 810,
+            "eng": "Grookey",
+            "cht": "敲音猴"
+        },
+        {
+            "id": 811,
+            "eng": "Thwackey",
+            "cht": "啪咚猴"
+        },
+        {
+            "id": 812,
+            "eng": "Rillaboom",
+            "cht": "轟擂金剛猩"
+        },
+        {
+            "id": 813,
+            "eng": "Scorbunny",
+            "cht": "炎兔兒"
+        },
+        {
+            "id": 814,
+            "eng": "Raboot",
+            "cht": "騰蹴小將"
+        },
+        {
+            "id": 815,
+            "eng": "Cinderace",
+            "cht": "閃焰王牌"
+        },
+        {
+            "id": 816,
+            "eng": "Sobble",
+            "cht": "淚眼蜥"
+        },
+        {
+            "id": 817,
+            "eng": "Drizzile",
+            "cht": "變澀蜥"
+        },
+        {
+            "id": 818,
+            "eng": "Inteleon",
+            "cht": "千面避役"
+        },
+        {
+            "id": 819,
+            "eng": "Skwovet",
+            "cht": "貪心栗鼠"
+        },
+        {
+            "id": 820,
+            "eng": "Greedent",
+            "cht": "藏飽栗鼠"
+        },
+        {
+            "id": 821,
+            "eng": "Rookidee",
+            "cht": "稚山雀"
+        },
+        {
+            "id": 822,
+            "eng": "Corvisquire",
+            "cht": "藍鴉"
+        },
+        {
+            "id": 823,
+            "eng": "Corviknight",
+            "cht": "鋼鎧鴉"
+        },
+        {
+            "id": 824,
+            "eng": "Blipbug",
+            "cht": "索偵蟲"
+        },
+        {
+            "id": 825,
+            "eng": "Dottler",
+            "cht": "天罩蟲"
+        },
+        {
+            "id": 826,
+            "eng": "Orbeetle",
+            "cht": "以歐路普"
+        },
+        {
+            "id": 827,
+            "eng": "Nickit",
+            "cht": "偷兒狐"
+        },
+        {
+            "id": 828,
+            "eng": "Thievul",
+            "cht": "狐大盜"
+        },
+        {
+            "id": 829,
+            "eng": "Gossifleur",
+            "cht": "幼棉棉"
+        },
+        {
+            "id": 830,
+            "eng": "Eldegoss",
+            "cht": "白蓬蓬"
+        },
+        {
+            "id": 831,
+            "eng": "Wooloo",
+            "cht": "毛辮羊"
+        },
+        {
+            "id": 832,
+            "eng": "Dubwool",
+            "cht": "毛毛角羊"
+        },
+        {
+            "id": 833,
+            "eng": "Chewtle",
+            "cht": "咬咬龜"
+        },
+        {
+            "id": 834,
+            "eng": "Drednaw",
+            "cht": "暴噬龜"
+        },
+        {
+            "id": 835,
+            "eng": "Yamper",
+            "cht": "來電汪"
+        },
+        {
+            "id": 836,
+            "eng": "Boltund",
+            "cht": "逐電犬"
+        },
+        {
+            "id": 837,
+            "eng": "Rolycoly",
+            "cht": "小炭仔"
+        },
+        {
+            "id": 838,
+            "eng": "Carkol",
+            "cht": "大炭車"
+        },
+        {
+            "id": 839,
+            "eng": "Coalossal",
+            "cht": "巨炭山"
+        },
+        {
+            "id": 840,
+            "eng": "Applin",
+            "cht": "啃果蟲"
+        },
+        {
+            "id": 841,
+            "eng": "Flapple",
+            "cht": "蘋裹龍"
+        },
+        {
+            "id": 842,
+            "eng": "Appletun",
+            "cht": "豐蜜龍"
+        },
+        {
+            "id": 843,
+            "eng": "Silicobra",
+            "cht": "沙包蛇"
+        },
+        {
+            "id": 844,
+            "eng": "Sandaconda",
+            "cht": "沙螺蟒"
+        },
+        {
+            "id": 845,
+            "eng": "Cramorant",
+            "cht": "古月鳥"
+        },
+        {
+            "id": 846,
+            "eng": "Arrokuda",
+            "cht": "刺梭魚"
+        },
+        {
+            "id": 847,
+            "eng": "Barraskewda",
+            "cht": "戽斗尖梭"
+        },
+        {
+            "id": 848,
+            "eng": "Toxel",
+            "cht": "毒電嬰"
+        },
+        {
+            "id": 849,
+            "eng": "Toxtricity",
+            "cht": "顫弦蠑螈"
+        },
+        {
+            "id": 850,
+            "eng": "Sizzlipede",
+            "cht": "燒火蚣"
+        },
+        {
+            "id": 851,
+            "eng": "Centiskorch",
+            "cht": "焚焰蚣"
+        },
+        {
+            "id": 852,
+            "eng": "Clobbopus",
+            "cht": "拳拳蛸"
+        },
+        {
+            "id": 853,
+            "eng": "Grapploct",
+            "cht": "八爪武師"
+        },
+        {
+            "id": 854,
+            "eng": "Sinistea",
+            "cht": "來悲茶"
+        },
+        {
+            "id": 855,
+            "eng": "Polteageist",
+            "cht": "怖思壺"
+        },
+        {
+            "id": 856,
+            "eng": "Hatenna",
+            "cht": "迷布莉姆"
+        },
+        {
+            "id": 857,
+            "eng": "Hattrem",
+            "cht": "提布莉姆"
+        },
+        {
+            "id": 858,
+            "eng": "Hatterene",
+            "cht": "布莉姆溫"
+        },
+        {
+            "id": 859,
+            "eng": "Impidimp",
+            "cht": "搗蛋小妖"
+        },
+        {
+            "id": 860,
+            "eng": "Morgrem",
+            "cht": "詐唬魔"
+        },
+        {
+            "id": 861,
+            "eng": "Grimmsnarl",
+            "cht": "長毛巨魔"
+        },
+        {
+            "id": 862,
+            "eng": "Obstagoon",
+            "cht": "堵攔熊"
+        },
+        {
+            "id": 863,
+            "eng": "Perrserker",
+            "cht": "喵頭目"
+        },
+        {
+            "id": 864,
+            "eng": "Cursola",
+            "cht": "魔靈珊瑚"
+        },
+        {
+            "id": 865,
+            "eng": "Sirfetch'd",
+            "cht": "蔥遊兵"
+        },
+        {
+            "id": 866,
+            "eng": "Mr. Rime",
+            "cht": "踏冰人偶"
+        },
+        {
+            "id": 867,
+            "eng": "Runerigus",
+            "cht": "死神板"
+        },
+        {
+            "id": 868,
+            "eng": "Milcery",
+            "cht": "小仙奶"
+        },
+        {
+            "id": 869,
+            "eng": "Alcremie",
+            "cht": "霜奶仙"
+        },
+        {
+            "id": 870,
+            "eng": "Falinks",
+            "cht": "列陣兵"
+        },
+        {
+            "id": 871,
+            "eng": "Pincurchin",
+            "cht": "啪嚓海膽"
+        },
+        {
+            "id": 872,
+            "eng": "Snom",
+            "cht": "雪吞蟲"
+        },
+        {
+            "id": 873,
+            "eng": "Frosmoth",
+            "cht": "雪絨蛾"
+        },
+        {
+            "id": 874,
+            "eng": "Stonjourner",
+            "cht": "巨石丁"
+        },
+        {
+            "id": 875,
+            "eng": "Eiscue",
+            "cht": "冰砌鵝"
+        },
+        {
+            "id": 876,
+            "eng": "Indeedee",
+            "cht": "愛管侍"
+        },
+        {
+            "id": 877,
+            "eng": "Morpeko",
+            "cht": "莫魯貝可"
+        },
+        {
+            "id": 878,
+            "eng": "Cufant",
+            "cht": "銅象"
+        },
+        {
+            "id": 879,
+            "eng": "Copperajah",
+            "cht": "大王銅象"
+        },
+        {
+            "id": 880,
+            "eng": "Dracozolt",
+            "cht": "雷鳥龍"
+        },
+        {
+            "id": 881,
+            "eng": "Arctozolt",
+            "cht": "雷鳥海獸"
+        },
+        {
+            "id": 882,
+            "eng": "Dracovish",
+            "cht": "鰓魚龍"
+        },
+        {
+            "id": 883,
+            "eng": "Arctovish",
+            "cht": "鰓魚海獸"
+        },
+        {
+            "id": 884,
+            "eng": "Duraludon",
+            "cht": "鋁鋼龍"
+        },
+        {
+            "id": 885,
+            "eng": "Dreepy",
+            "cht": "多龍梅西亞"
+        },
+        {
+            "id": 886,
+            "eng": "Drakloak",
+            "cht": "多龍奇"
+        },
+        {
+            "id": 887,
+            "eng": "Dragapult",
+            "cht": "多龍巴魯托"
+        },
+        {
+            "id": 888,
+            "eng": "Zacian",
+            "cht": "蒼響"
+        },
+        {
+            "id": 889,
+            "eng": "Zamazenta",
+            "cht": "藏瑪然特"
+        },
+        {
+            "id": 890,
+            "eng": "Eternatus",
+            "cht": "無極汰那"
+        }
+    ]
+}
