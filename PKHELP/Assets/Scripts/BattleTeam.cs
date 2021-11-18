@@ -163,6 +163,8 @@ public class BattleTeam : MonoBehaviour
         {
             BattleManager.Instance.battlers.Remove(id);
             RefreshAllBattlerList();
+
+            //TODO: update counter/againster list pk
         }
 
         BattleManager.Instance.SaveBattlersData();

@@ -161,6 +161,20 @@ public class BattleManager : MonoBehaviour
     }
 
 
+    public void ClearTargetBattlers()
+    {
+        foreach (Transform btnTrans in battlersRoot.transform)
+        {
+            Button btn = btnTrans.GetComponent<Button>();
+            btn.image.color = Color.white;
+        }
+
+        targetList.Clear();
+
+        RefreshTargetBattlerList();
+    }
+
+
 
 
     // public void OpenAddBattlerPanel()
@@ -292,6 +306,7 @@ public class BattleManager : MonoBehaviour
         Debug.Log("Save to Path: " + path);
     }
 
+
     void LoadBattlersData()
     {
         string folderPath = Application.persistentDataPath;
@@ -353,17 +368,17 @@ public class BattleManager : MonoBehaviour
         if (targetList.Contains(index) == false)
         {
             targetList.Add(index);
+            btn.image.color = Color.cyan;
             RefreshTargetBattlerList();
         }
         else
         {
             targetList.Remove(index);
+            btn.image.color = Color.white;
             RefreshTargetBattlerList();
         }
 
         return;
-
-
     }
 
 

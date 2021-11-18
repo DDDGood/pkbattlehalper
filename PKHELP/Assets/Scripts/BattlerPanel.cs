@@ -85,9 +85,14 @@ public class BattlerPanel : MonoBehaviour
         int id;
         if (int.TryParse(addAgainstField.text, out id))
         {
+            BattlerData targetBattler;
+            if (BattleManager.Instance.battlers.TryGetValue(id, out targetBattler) == false)
+                return;
+
             data.againstList.Add(id);
 
-            BattleManager.Instance.battlers[id].counterList.Add(data.pkID);
+            if (targetBattler.counterList.Contains(data.pkID) == false)
+                targetBattler.counterList.Add(data.pkID);
         }
 
         Utilities.RefreshPKLayoutGroup(againstRoot, data.againstList, OnClickAgainstButton);
@@ -102,9 +107,14 @@ public class BattlerPanel : MonoBehaviour
         {
             if (data.againstList.Contains(id))
             {
+                BattlerData targetBattler;
+                if (BattleManager.Instance.battlers.TryGetValue(id, out targetBattler) == false)
+                    return;
+
                 data.againstList.Remove(id);
 
-                BattleManager.Instance.battlers[id].counterList.Remove(data.pkID);
+                if (targetBattler.counterList.Contains(data.pkID) == true)
+                    targetBattler.counterList.Remove(data.pkID);
             }
         }
         Utilities.RefreshPKLayoutGroup(againstRoot, data.againstList, OnClickAgainstButton);
@@ -142,9 +152,13 @@ public class BattlerPanel : MonoBehaviour
         int id;
         if (int.TryParse(addCounterField.text, out id))
         {
+            BattlerData targetBattler;
+            if (BattleManager.Instance.battlers.TryGetValue(id, out targetBattler) == false)
+                return;
             data.counterList.Add(id);
 
-            BattleManager.Instance.battlers[id].againstList.Add(data.pkID);
+            if (targetBattler.againstList.Contains(data.pkID) == false)
+                targetBattler.againstList.Add(data.pkID);
         }
 
         Utilities.RefreshPKLayoutGroup(counterRoot, data.counterList, OnClickCounterButton);
@@ -159,14 +173,19 @@ public class BattlerPanel : MonoBehaviour
         {
             if (data.counterList.Contains(id))
             {
+                BattlerData targetBattler;
+                if (BattleManager.Instance.battlers.TryGetValue(id, out targetBattler) == false)
+                    return;
                 data.counterList.Remove(id);
 
 
-                BattleManager.Instance.battlers[id].againstList.Remove(data.pkID);
+                if (targetBattler.againstList.Contains(data.pkID) == true)
+                    targetBattler.againstList.Remove(data.pkID);
 
-                Utilities.RefreshPKLayoutGroup(counterRoot, data.counterList, OnClickCounterButton);
             }
         }
+
+        Utilities.RefreshPKLayoutGroup(counterRoot, data.counterList, OnClickCounterButton);
     }
 
     void OnClickCounterButton(Button btn)
